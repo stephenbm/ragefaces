@@ -1,3 +1,3 @@
-module Ragefaces
+module RageFaces
   VERSION = "0.0.1"
 end

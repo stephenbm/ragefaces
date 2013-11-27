@@ -1,0 +1,1 @@
+//= require ./rager.js.coffee

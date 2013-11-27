@@ -5,11 +5,11 @@ require 'ragefaces/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "ragefaces"
-  spec.version       = Ragefaces::VERSION
+  spec.version       = RageFaces::VERSION
   spec.authors       = ["Stephen Breyer-Menke"]
   spec.email         = ["steve.bm@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{A simple javascript rage faces lib that marks up text with rage face pics}
+  spec.summary       = %q{Javascript rage face library}
   spec.homepage      = ""
   spec.license       = "MIT"
 

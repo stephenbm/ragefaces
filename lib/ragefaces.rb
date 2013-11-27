@@ -1,5 +1,5 @@
 require "ragefaces/version"
 
-module Ragefaces
-  # Your code goes here...
+module RageFaces
+  require 'gemojifyjs/engine'
 end
