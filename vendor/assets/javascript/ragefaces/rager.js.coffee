@@ -7,7 +7,7 @@ class RageFaces
     for match in text.match(@tags) or []
       markup = match.substring(1, match.length-1)
       if markup in @valid_tags
-        classname = /^[0-9]/.test(markup) ? "_#{markup}" : markup
+        classname = if /^[0-9]/.test(markup) then "_#{markup}" else markup
         text = text.replace(match, "<span class='ragefaces #{markup.toLowerCase()}' title='#{markup}'></span>")
-      return text
+    return text
 window.ragefaces = new RageFaces
