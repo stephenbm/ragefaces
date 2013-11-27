@@ -1,5 +1,5 @@
 require "ragefaces/version"
 
-module RageFaces
+module Ragefaces
   require 'ragefaces/engine'
 end
