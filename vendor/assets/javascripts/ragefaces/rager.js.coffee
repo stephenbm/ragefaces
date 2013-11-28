@@ -8,6 +8,6 @@ class RageFaces
       markup = match.substring(1, match.length-1)
       if markup in @valid_tags
         classname = if /^[0-9]/.test(markup) then "_#{markup}" else markup
-        text = text.replace(match, "<span class='ragefaces #{markup.toLowerCase()}' title='#{markup}'></span>")
+        text = text.replace(match, "<span class='ragefaces #{classname.toLowerCase()}' title='#{markup}'></span>")
     return text
 window.ragefaces = new RageFaces
