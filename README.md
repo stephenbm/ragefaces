@@ -20,7 +20,11 @@ Or install it yourself as:
 
 ## Usage
 
-This method should only accept plain text, do not pass it html as it could break links and escape characters e.g. &amp;don't do this - it would break the escape sequence. If you to use it with html or anchors rather remove them first and add them back in. This is sufficient for my use:
+This method has not been tested with html - although it will only be a problem if your html has one of the 850ish markups in the form:
+```
+    /:[-\w]+:/g
+```
+I use this in conjunction with gemojifyjs which can break anchors and escape sequences:
 ```
 ragefaces: (text) ->
     cache_anchors = text.match(/<a [^<]+<\/a>/g) or []
@@ -30,6 +34,7 @@ ragefaces: (text) ->
     for escape in cache_escapes
       text = text.replace(escape, '<e>')
     text = ragefaces.markup(text)
+    text = emojify.markup(text)
     for escape in cache_escapes
       text = text.replace('<e>', escape)
     for anchor in cache_anchors
