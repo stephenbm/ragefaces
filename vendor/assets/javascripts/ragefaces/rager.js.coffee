@@ -368,7 +368,7 @@ class RageFaces
       'forever_alone_computer',
       'forever_alone_crying',
       'forever_alone_dancing',
-      'forever_alone_dancing_(with_text)',
+      'forever_alone_dancing_with_text',
       'forever_alone_face_only',
       'forever_alone_happy',
       'forever_alone_mask',
