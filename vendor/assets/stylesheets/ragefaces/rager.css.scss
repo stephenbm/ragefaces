@@ -3,858 +3,911 @@
     height: 44px;
     padding:none;
     display: inline-block;
-    background-image: url(image-path('rage-sprite.png'));
     background-repeat:no-repeat;
 }
-._10_seconds_later { background-position: 0 -0px; }
-._10guy { background-position: 0 -44px; }
-._12_seconds_later { background-position: 0 -88px; }
-._15_minutes_later { background-position: 0 -132px; }
-._1_minute_37_seconds { background-position: 0 -176px; }
-._2000_years_later { background-position: 0 -220px; }
-._3000_years_later { background-position: 0 -264px; }
-._346_minutes_later { background-position: 0 -308px; }
-._3_28_am { background-position: 0 -352px; }
-._3_days_later { background-position: 0 -396px; }
-._3_days_later_2 { background-position: 0 -440px; }
-._3_days_later_3 { background-position: 0 -484px; }
-._3_days_later_4 { background-position: 0 -528px; }
-._3_days_later_5 { background-position: 0 -572px; }
-._3_hours_later { background-position: 0 -616px; }
-._48_hours_later { background-position: 0 -660px; }
-._4_to_6_weeks_later { background-position: 0 -704px; }
-._5_minutes_later { background-position: 0 -748px; }
-._6_half_hours_later { background-position: 0 -792px; }
-._6_months_later { background-position: 0 -836px; }
-._7_59_am { background-position: 0 -880px; }
-._7_hours_later { background-position: 0 -924px; }
-._8_01_pm { background-position: 0 -968px; }
-._8_hours_later { background-position: 0 -1012px; }
-.a_few_inches_later { background-position: 0 -1056px; }
-.a_few_minutes_later { background-position: 0 -1100px; }
-.a_few_moments_later { background-position: 0 -1144px; }
-.accidentally_open_internet_explorer { background-position: 0 -1188px; }
-.actually { background-position: 0 -1232px; }
-.advice_dog { background-position: 0 -1276px; }
-.advice_god { background-position: 0 -1320px; }
-.advice_yoda_gives { background-position: 0 -1364px; }
-.aint_that_some_shit { background-position: 0 -1408px; }
-.alien { background-position: 0 -1452px; }
-.all_the_things_fuu { background-position: 0 -1496px; }
-.all_the_things_sad { background-position: 0 -1540px; }
-.angry_bang { background-position: 0 -1584px; }
-.angry_dark_stare { background-position: 0 -1628px; }
-.angry_head_shake { background-position: 0 -1672px; }
-.angry_mom { background-position: 0 -1716px; }
-.angry_mouth { background-position: 0 -1760px; }
-.angry_school_boy { background-position: 0 -1804px; }
-.angry_shaking { background-position: 0 -1848px; }
-.angry_with_pc { background-position: 0 -1892px; }
-.annoying_childhood_friend { background-position: 0 -1936px; }
-.annoying_facebook_girl { background-position: 0 -1980px; }
-.anonymous_mask { background-position: 0 -2024px; }
-.anti_joke_chicken { background-position: 0 -2068px; }
-.are_you_fucking_kidding_me { background-position: 0 -2112px; }
-.are_you_fucking_kidding_me_clean { background-position: 0 -2156px; }
-.arrow_in_knee { background-position: 0 -2200px; }
-.art_student_owl { background-position: 0 -2244px; }
-.awkward_moment { background-position: 0 -2288px; }
-.aww_yeah { background-position: 0 -2332px; }
-.baby_godfather { background-position: 0 -2376px; }
-.baby_troll { background-position: 0 -2420px; }
-.bad_advice_cat { background-position: 0 -2464px; }
-.bad_luck_brian { background-position: 0 -2508px; }
-.bad_pokerface { background-position: 0 -2552px; }
-.bear_grylls { background-position: 0 -2596px; }
-.beard_guy { background-position: 0 -2640px; }
-.beer_guy { background-position: 0 -2684px; }
-.beng { background-position: 0 -2728px; }
-.big_smile { background-position: 0 -2772px; }
-.bill_oreilly { background-position: 0 -2816px; }
-.bitchslap { background-position: 0 -2860px; }
-.black_big_smile { background-position: 0 -2904px; }
-.black_concentrated { background-position: 0 -2948px; }
-.black_crying { background-position: 0 -2992px; }
-.black_dazed { background-position: 0 -3036px; }
-.black_determined { background-position: 0 -3080px; }
-.black_dude { background-position: 0 -3124px; }
-.black_dumbfounded { background-position: 0 -3168px; }
-.black_ewbte { background-position: 0 -3212px; }
-.black_excited { background-position: 0 -3256px; }
-.black_excited_bliss { background-position: 0 -3300px; }
-.black_excited_tears { background-position: 0 -3344px; }
-.black_facepalm { background-position: 0 -3388px; }
-.black_fake_smile { background-position: 0 -3432px; }
-.black_forever_alone { background-position: 0 -3476px; }
-.black_freddie { background-position: 0 -3520px; }
-.black_fuck_that_bitch { background-position: 0 -3564px; }
-.black_fuck_yeah { background-position: 0 -3608px; }
-.black_gasp { background-position: 0 -3652px; }
-.black_gasp2 { background-position: 0 -3696px; }
-.black_guy_gun { background-position: 0 -3740px; }
-.black_happy { background-position: 0 -3784px; }
-.black_hmmm { background-position: 0 -3828px; }
-.black_i_wonder { background-position: 0 -3872px; }
-.black_ladystare { background-position: 0 -3916px; }
-.black_ladystare2 { background-position: 0 -3960px; }
-.black_lean { background-position: 0 -4004px; }
-.black_lol { background-position: 0 -4048px; }
-.black_me_gusta { background-position: 0 -4092px; }
-.black_milk { background-position: 0 -4136px; }
-.black_normal { background-position: 0 -4180px; }
-.black_normal2 { background-position: 0 -4224px; }
-.black_okay { background-position: 0 -4268px; }
-.black_omgrun { background-position: 0 -4312px; }
-.black_pfft { background-position: 0 -4356px; }
-.black_quite { background-position: 0 -4400px; }
-.black_rage { background-position: 0 -4444px; }
-.black_rage2 { background-position: 0 -4488px; }
-.black_rage_canadian { background-position: 0 -4532px; }
-.black_rage_extreme { background-position: 0 -4576px; }
-.black_rage_extreme2 { background-position: 0 -4620px; }
-.black_rage_foaming { background-position: 0 -4664px; }
-.black_rage_getting_pissed { background-position: 0 -4708px; }
-.black_rage_mad { background-position: 0 -4752px; }
-.black_rage_mad2 { background-position: 0 -4796px; }
-.black_rage_quiet { background-position: 0 -4840px; }
-.black_rage_shaking { background-position: 0 -4884px; }
-.black_rage_super { background-position: 0 -4928px; }
-.black_really_determined { background-position: 0 -4972px; }
-.black_red_tongue { background-position: 0 -5016px; }
-.black_schlick { background-position: 0 -5060px; }
-.black_smile { background-position: 0 -5104px; }
-.black_sweet_tears { background-position: 0 -5148px; }
-.black_tongue_down { background-position: 0 -5192px; }
-.black_troll { background-position: 0 -5236px; }
-.black_troll_sad { background-position: 0 -5280px; }
-.black_what { background-position: 0 -5324px; }
-.black_why { background-position: 0 -5368px; }
-.black_why_no_hands { background-position: 0 -5412px; }
-.black_wut { background-position: 0 -5456px; }
-.blackhair { background-position: 0 -5500px; }
-.blackhair2 { background-position: 0 -5544px; }
-.blackhair3 { background-position: 0 -5588px; }
-.blankhair { background-position: 0 -5632px; }
-.blonde_big_smile { background-position: 0 -5676px; }
-.blonde_concentrated { background-position: 0 -5720px; }
-.blonde_crying { background-position: 0 -5764px; }
-.blonde_dazed { background-position: 0 -5808px; }
-.blonde_determined { background-position: 0 -5852px; }
-.blonde_dude { background-position: 0 -5896px; }
-.blonde_dumbfounded { background-position: 0 -5940px; }
-.blonde_ewbte { background-position: 0 -5984px; }
-.blonde_excited { background-position: 0 -6028px; }
-.blonde_excited_bliss { background-position: 0 -6072px; }
-.blonde_excited_tears { background-position: 0 -6116px; }
-.blonde_facepalm { background-position: 0 -6160px; }
-.blonde_fake_smile { background-position: 0 -6204px; }
-.blonde_forever_alone { background-position: 0 -6248px; }
-.blonde_freddie { background-position: 0 -6292px; }
-.blonde_fuck_that_bitch { background-position: 0 -6336px; }
-.blonde_fuck_yeah { background-position: 0 -6380px; }
-.blonde_gasp { background-position: 0 -6424px; }
-.blonde_gasp2 { background-position: 0 -6468px; }
-.blonde_genius { background-position: 0 -6512px; }
-.blonde_happy { background-position: 0 -6556px; }
-.blonde_hmmm { background-position: 0 -6600px; }
-.blonde_i_wonder { background-position: 0 -6644px; }
-.blonde_ladystare { background-position: 0 -6688px; }
-.blonde_ladystare2 { background-position: 0 -6732px; }
-.blonde_lean { background-position: 0 -6776px; }
-.blonde_lol { background-position: 0 -6820px; }
-.blonde_me_gusta { background-position: 0 -6864px; }
-.blonde_milk { background-position: 0 -6908px; }
-.blonde_normal { background-position: 0 -6952px; }
-.blonde_normal2 { background-position: 0 -6996px; }
-.blonde_okay { background-position: 0 -7040px; }
-.blonde_omgrun { background-position: 0 -7084px; }
-.blonde_pfft { background-position: 0 -7128px; }
-.blonde_quite { background-position: 0 -7172px; }
-.blonde_rage { background-position: 0 -7216px; }
-.blonde_rage2 { background-position: 0 -7260px; }
-.blonde_rage_canadian { background-position: 0 -7304px; }
-.blonde_rage_extreme { background-position: 0 -7348px; }
-.blonde_rage_extreme2 { background-position: 0 -7392px; }
-.blonde_rage_foaming { background-position: 0 -7436px; }
-.blonde_rage_getting_pissed { background-position: 0 -7480px; }
-.blonde_rage_mad { background-position: 0 -7524px; }
-.blonde_rage_mad2 { background-position: 0 -7568px; }
-.blonde_rage_quiet { background-position: 0 -7612px; }
-.blonde_rage_shaking { background-position: 0 -7656px; }
-.blonde_rage_super { background-position: 0 -7700px; }
-.blonde_really_determined { background-position: 0 -7744px; }
-.blonde_red_tongue { background-position: 0 -7788px; }
-.blonde_schlick { background-position: 0 -7832px; }
-.blonde_smile { background-position: 0 -7876px; }
-.blonde_sweet_tears { background-position: 0 -7920px; }
-.blonde_tongue_down { background-position: 0 -7964px; }
-.blonde_troll { background-position: 0 -8008px; }
-.blonde_troll_sad { background-position: 0 -8052px; }
-.blonde_what { background-position: 0 -8096px; }
-.blonde_why { background-position: 0 -8140px; }
-.blonde_why_no_hands { background-position: 0 -8184px; }
-.blonde_wut { background-position: 0 -8228px; }
-.blondehair { background-position: 0 -8272px; }
-.blue_y_u_no { background-position: 0 -8316px; }
-.blushing { background-position: 0 -8360px; }
-.boobs { background-position: 0 -8404px; }
-.brace_yourselves_x_is_coming { background-position: 0 -8448px; }
-.brad_pitt { background-position: 0 -8492px; }
-.brant_rules { background-position: 0 -8536px; }
-.broken_heart { background-position: 0 -8580px; }
-.brunette_big_smile { background-position: 0 -8624px; }
-.brunette_concentrated { background-position: 0 -8668px; }
-.brunette_crying { background-position: 0 -8712px; }
-.brunette_dazed { background-position: 0 -8756px; }
-.brunette_determined { background-position: 0 -8800px; }
-.brunette_dude { background-position: 0 -8844px; }
-.brunette_dumbfounded { background-position: 0 -8888px; }
-.brunette_ewbte { background-position: 0 -8932px; }
-.brunette_excited { background-position: 0 -8976px; }
-.brunette_excited_bliss { background-position: 0 -9020px; }
-.brunette_excited_tears { background-position: 0 -9064px; }
-.brunette_facepalm { background-position: 0 -9108px; }
-.brunette_fake_smile { background-position: 0 -9152px; }
-.brunette_forever_alone { background-position: 0 -9196px; }
-.brunette_freddie { background-position: 0 -9240px; }
-.brunette_fuck_that_bitch { background-position: 0 -9284px; }
-.brunette_fuck_yeah { background-position: 0 -9328px; }
-.brunette_gasp { background-position: 0 -9372px; }
-.brunette_gasp2 { background-position: 0 -9416px; }
-.brunette_happy { background-position: 0 -9460px; }
-.brunette_hmmm { background-position: 0 -9504px; }
-.brunette_i_wonder { background-position: 0 -9548px; }
-.brunette_ladystare { background-position: 0 -9592px; }
-.brunette_ladystare2 { background-position: 0 -9636px; }
-.brunette_lean { background-position: 0 -9680px; }
-.brunette_lol { background-position: 0 -9724px; }
-.brunette_me_gusta { background-position: 0 -9768px; }
-.brunette_milk { background-position: 0 -9812px; }
-.brunette_normal { background-position: 0 -9856px; }
-.brunette_normal2 { background-position: 0 -9900px; }
-.brunette_okay { background-position: 0 -9944px; }
-.brunette_omgrun { background-position: 0 -9988px; }
-.brunette_pfft { background-position: 0 -10032px; }
-.brunette_quite { background-position: 0 -10076px; }
-.brunette_rage { background-position: 0 -10120px; }
-.brunette_rage2 { background-position: 0 -10164px; }
-.brunette_rage_canadian { background-position: 0 -10208px; }
-.brunette_rage_extreme { background-position: 0 -10252px; }
-.brunette_rage_extreme2 { background-position: 0 -10296px; }
-.brunette_rage_foaming { background-position: 0 -10340px; }
-.brunette_rage_getting_pissed { background-position: 0 -10384px; }
-.brunette_rage_mad { background-position: 0 -10428px; }
-.brunette_rage_mad2 { background-position: 0 -10472px; }
-.brunette_rage_quiet { background-position: 0 -10516px; }
-.brunette_rage_shaking { background-position: 0 -10560px; }
-.brunette_really_determined { background-position: 0 -10604px; }
-.brunette_red_tongue { background-position: 0 -10648px; }
-.brunette_schlick { background-position: 0 -10692px; }
-.brunette_smile { background-position: 0 -10736px; }
-.brunette_sweet_tears { background-position: 0 -10780px; }
-.brunette_tongue_down { background-position: 0 -10824px; }
-.brunette_troll { background-position: 0 -10868px; }
-.brunette_troll_sad { background-position: 0 -10912px; }
-.brunette_what { background-position: 0 -10956px; }
-.brunette_why { background-position: 0 -11000px; }
-.brunette_why_no_hands { background-position: 0 -11044px; }
-.brunette_wut { background-position: 0 -11088px; }
-.brunettehair { background-position: 0 -11132px; }
-.business_cat { background-position: 0 -11176px; }
-.butthurt_dweller { background-position: 0 -11220px; }
-.canadian_rage { background-position: 0 -11264px; }
-.cat_chin { background-position: 0 -11308px; }
-.cat_cuteness_overload { background-position: 0 -11352px; }
-.cat_gasp { background-position: 0 -11396px; }
-.cereal_guy { background-position: 0 -11440px; }
-.cereal_guy_angry { background-position: 0 -11484px; }
-.cereal_guy_big_squint { background-position: 0 -11528px; }
-.cereal_guy_drink_sip { background-position: 0 -11572px; }
-.cereal_guy_original { background-position: 0 -11616px; }
-.cereal_guy_spitting { background-position: 0 -11660px; }
-.cereal_guy_squint { background-position: 0 -11704px; }
-.challenge_accepted { background-position: 0 -11748px; }
-.challenge_accepted_drunk { background-position: 0 -11792px; }
-.challenge_considered { background-position: 0 -11836px; }
-.challenge_denied { background-position: 0 -11880px; }
-.challenge_failed { background-position: 0 -11924px; }
-.chef_hat { background-position: 0 -11968px; }
-.chemistry_cat { background-position: 0 -12012px; }
-.chin_strapping { background-position: 0 -12056px; }
-.classic_rage { background-position: 0 -12100px; }
-.clean_everything { background-position: 0 -12144px; }
-.clever_girl { background-position: 0 -12188px; }
-.college_liberal { background-position: 0 -12232px; }
-.computer_slice { background-position: 0 -12276px; }
-.computer_stare { background-position: 0 -12320px; }
-.concentrate { background-position: 0 -12364px; }
-.concentrated { background-position: 0 -12408px; }
-.concentrated_teeth { background-position: 0 -12452px; }
-.conflicting_emotions { background-position: 0 -12496px; }
-.conspiracy_keanu { background-position: 0 -12540px; }
-.cook_fap { background-position: 0 -12584px; }
-.courage_wolf { background-position: 0 -12628px; }
-.crazy_rage { background-position: 0 -12672px; }
-.creepy_dark { background-position: 0 -12716px; }
-.creepy_glasses_guy { background-position: 0 -12760px; }
-.creepy_troll { background-position: 0 -12804px; }
-.cry_pc { background-position: 0 -12848px; }
-.crying { background-position: 0 -12892px; }
-.cute_kid { background-position: 0 -12936px; }
-.cute_little_kid { background-position: 0 -12980px; }
-.cuteness_overload { background-position: 0 -13024px; }
-.cuteness_overload_2 { background-position: 0 -13068px; }
-.daily_lie { background-position: 0 -13112px; }
-.damn { background-position: 0 -13156px; }
-.dat_ash { background-position: 0 -13200px; }
-.dat_ass { background-position: 0 -13244px; }
-.dating_site_murderer { background-position: 0 -13288px; }
-.day_four { background-position: 0 -13332px; }
-.day_three { background-position: 0 -13376px; }
-.day_two { background-position: 0 -13420px; }
-.depression_dog { background-position: 0 -13464px; }
-.derp_gusta { background-position: 0 -13508px; }
-.Derp_Hitler { background-position: 0 -13552px; }
-.derpina { background-position: 0 -13596px; }
-.derpina_eyes_closed { background-position: 0 -13640px; }
-.desk_flip { background-position: 0 -13684px; }
-.devil { background-position: 0 -13728px; }
-.disaster_girl { background-position: 0 -13772px; }
-.dog_wetodd { background-position: 0 -13816px; }
-.dolan { background-position: 0 -13860px; }
-.double_facepalm { background-position: 0 -13904px; }
-.drinkin_coke { background-position: 0 -13948px; }
-.drunk_baby { background-position: 0 -13992px; }
-.duck_yeah { background-position: 0 -14036px; }
-.duckface { background-position: 0 -14080px; }
-.dude { background-position: 0 -14124px; }
-.dude_come_on { background-position: 0 -14168px; }
-.dwight_schrute { background-position: 0 -14212px; }
-.efl_troll_face { background-position: 0 -14256px; }
-.eight_hours_later { background-position: 0 -14300px; }
-.embrace_pc { background-position: 0 -14344px; }
-.epic_win { background-position: 0 -14388px; }
-.eventually { background-position: 0 -14432px; }
-.everything_is_beatiful { background-position: 0 -14476px; }
-.everything_went_better { background-position: 0 -14520px; }
-.evil_cows { background-position: 0 -14564px; }
-.evil_smile { background-position: 0 -14608px; }
-.eye_half_closed { background-position: 0 -14652px; }
-.eyebrow_look { background-position: 0 -14696px; }
-.fabulous { background-position: 0 -14740px; }
-.face_mustache { background-position: 0 -14784px; }
-.facepalm { background-position: 0 -14828px; }
-.facepalm_female { background-position: 0 -14872px; }
-.facepalm_picard { background-position: 0 -14916px; }
-.faces_together { background-position: 0 -14960px; }
-.fap { background-position: 0 -15004px; }
-.fap_accepted { background-position: 0 -15048px; }
-.fap_gentleman { background-position: 0 -15092px; }
-.fap_schlick_female { background-position: 0 -15136px; }
-.fap_scream { background-position: 0 -15180px; }
-.feel_like_a_ninja { background-position: 0 -15224px; }
-.feels_good_man { background-position: 0 -15268px; }
-.female_aww_yeah { background-position: 0 -15312px; }
-.female_rage { background-position: 0 -15356px; }
-.female_seriously_glasses { background-position: 0 -15400px; }
-.fffffffuuuuuuuuuuuu { background-position: 0 -15444px; }
-.first_world_problems { background-position: 0 -15488px; }
-.forever_a_gamer { background-position: 0 -15532px; }
-.forever_alone { background-position: 0 -15576px; }
-.forever_alone_clean { background-position: 0 -15620px; }
-.forever_alone_computer { background-position: 0 -15664px; }
-.forever_alone_face_only { background-position: 0 -15708px; }
-.forever_alone_happy { background-position: 0 -15752px; }
-.forever_alone_pirate { background-position: 0 -15796px; }
-.forever_alone_sad { background-position: 0 -15840px; }
-.forever_alone_together { background-position: 0 -15884px; }
-.foul_bachelor_frog { background-position: 0 -15928px; }
-.foul_bachelorette_frog { background-position: 0 -15972px; }
-.freddie_girl { background-position: 0 -16016px; }
-.freddie_mercury { background-position: 0 -16060px; }
-.french { background-position: 0 -16104px; }
-.frogman { background-position: 0 -16148px; }
-.frogman_happy { background-position: 0 -16192px; }
-.frogman_sad { background-position: 0 -16236px; }
-.frown { background-position: 0 -16280px; }
-.fsjal { background-position: 0 -16324px; }
-.fuck_that { background-position: 0 -16368px; }
-.fuck_that_bitch_yao_pff { background-position: 0 -16412px; }
-.fuck_that_shit_female { background-position: 0 -16456px; }
-.fuck_that_yao_ming { background-position: 0 -16500px; }
-.fuck_yeah { background-position: 0 -16544px; }
-.fuck_yeah_clean { background-position: 0 -16588px; }
-.fuck_yeah_close_enough { background-position: 0 -16632px; }
-.fuck_yeah_danny_trejo { background-position: 0 -16676px; }
-.fuck_yeah_melvin { background-position: 0 -16720px; }
-.fuck_yeah_smile { background-position: 0 -16764px; }
-.fuck_you { background-position: 0 -16808px; }
-.fus_ro_dah { background-position: 0 -16852px; }
-.futurama_fry { background-position: 0 -16896px; }
-.futurama_zoidberg { background-position: 0 -16940px; }
-.fuuu { background-position: 0 -16984px; }
-.fuuu_karma { background-position: 0 -17028px; }
-.gasp { background-position: 0 -17072px; }
-.gaspcat_with_glasses { background-position: 0 -17116px; }
-.gay { background-position: 0 -17160px; }
-.genius { background-position: 0 -17204px; }
-.gentleman_troll { background-position: 0 -17248px; }
-.gentlemen { background-position: 0 -17292px; }
-.glory_pc { background-position: 0 -17336px; }
-.go_fuck_yourself { background-position: 0 -17380px; }
-.good_guy_greg { background-position: 0 -17424px; }
-.good_troll { background-position: 0 -17468px; }
-.got_a_badass { background-position: 0 -17512px; }
-.got_a_badass_full { background-position: 0 -17556px; }
-.grandma { background-position: 0 -17600px; }
-.grandma_finds_the_internet { background-position: 0 -17644px; }
-.grin { background-position: 0 -17688px; }
-.grinch { background-position: 0 -17732px; }
-.gtfo { background-position: 0 -17776px; }
-.gtfo_clean { background-position: 0 -17820px; }
-.gtfo_smile { background-position: 0 -17864px; }
-.ha { background-position: 0 -17908px; }
-.hah_gay { background-position: 0 -17952px; }
-.happy_female { background-position: 0 -17996px; }
-.happy_smile { background-position: 0 -18040px; }
-.happy_smoking { background-position: 0 -18084px; }
-.happy_winter { background-position: 0 -18128px; }
-.happy_yes { background-position: 0 -18172px; }
-.hat_and_monocle { background-position: 0 -18216px; }
-.haters_gonna_hate { background-position: 0 -18260px; }
-.hawkward { background-position: 0 -18304px; }
-.he_he { background-position: 0 -18348px; }
-.headphones { background-position: 0 -18392px; }
-.helpful_tyler_durden { background-position: 0 -18436px; }
-.herp { background-position: 0 -18480px; }
-.herp_derp { background-position: 0 -18524px; }
-.hey { background-position: 0 -18568px; }
-.high { background-position: 0 -18612px; }
-.high_expectations_asian_father { background-position: 0 -18656px; }
-.hipster_glasses { background-position: 0 -18700px; }
-.hipster_kitty { background-position: 0 -18744px; }
-.hipsterglasses { background-position: 0 -18788px; }
-.hitler { background-position: 0 -18832px; }
-.hmmm { background-position: 0 -18876px; }
-.horror { background-position: 0 -18920px; }
-.hot_chick { background-position: 0 -18964px; }
-.huh { background-position: 0 -19008px; }
-.huhm { background-position: 0 -19052px; }
-.hurrr { background-position: 0 -19096px; }
-.hyper_troll { background-position: 0 -19140px; }
-.i_am_determined { background-position: 0 -19184px; }
-.i_feels_yah { background-position: 0 -19228px; }
-.i_know_what_you_did_there_clean { background-position: 0 -19272px; }
-.i_lied { background-position: 0 -19316px; }
-.i_lied_black { background-position: 0 -19360px; }
-.i_lied_light { background-position: 0 -19404px; }
-.i_regret_nothing { background-position: 0 -19448px; }
-.i_see_what_you_did_there { background-position: 0 -19492px; }
-.i_truthed { background-position: 0 -19536px; }
-.ich_mag_gusta { background-position: 0 -19580px; }
-.if_you_know_what_i_mean_mr_bean { background-position: 0 -19624px; }
-.if_you_know_what_i_mean_mr_bean_blank { background-position: 0 -19668px; }
-.im_watching_u { background-position: 0 -19712px; }
-.impossibru { background-position: 0 -19756px; }
-.indeed { background-position: 0 -19800px; }
-.inglip { background-position: 0 -19844px; }
-.inglip_full_body { background-position: 0 -19888px; }
-.inglip_full_body2 { background-position: 0 -19932px; }
-.inglip_gropaga1 { background-position: 0 -19976px; }
-.inglip_gropaga2 { background-position: 0 -20020px; }
-.inglip_gropaga3 { background-position: 0 -20064px; }
-.inglip_gropaga4 { background-position: 0 -20108px; }
-.inglip_gropaga5 { background-position: 0 -20152px; }
-.inglip_gropaga6 { background-position: 0 -20196px; }
-.inglip_gropaga7 { background-position: 0 -20240px; }
-.inglip_gropaga_amazed { background-position: 0 -20284px; }
-.inglip_gropaga_blank { background-position: 0 -20328px; }
-.inglip_gropaga_front { background-position: 0 -20372px; }
-.inglip_gropaga_okay { background-position: 0 -20416px; }
-.inglip_gropaga_why { background-position: 0 -20460px; }
-.inglip_hail_inglip { background-position: 0 -20504px; }
-.inglip_hood1 { background-position: 0 -20548px; }
-.inglip_hood2 { background-position: 0 -20592px; }
-.inglip_ircip { background-position: 0 -20636px; }
-.inglip_ready_to_battle { background-position: 0 -20680px; }
-.insanity_wolf { background-position: 0 -20724px; }
-.its_free { background-position: 0 -20768px; }
-.its_not_okay { background-position: 0 -20812px; }
-.its_something { background-position: 0 -20856px; }
-.jackie_chan { background-position: 0 -20900px; }
-.jealous_girl { background-position: 0 -20944px; }
-.jesus { background-position: 0 -20988px; }
-.jesus_dog { background-position: 0 -21032px; }
-.john_cena { background-position: 0 -21076px; }
-.joseph_ducreux { background-position: 0 -21120px; }
-.keyboard_break { background-position: 0 -21164px; }
-.killed_a_man { background-position: 0 -21208px; }
-.kitteh_smile { background-position: 0 -21252px; }
-.knife_self { background-position: 0 -21296px; }
-.knowthatfeel { background-position: 0 -21340px; }
-.koala_cant_believe { background-position: 0 -21384px; }
-.la_di_da { background-position: 0 -21428px; }
-.lame_pun_coon { background-position: 0 -21472px; }
-.later_1 { background-position: 0 -21516px; }
-.later_2 { background-position: 0 -21560px; }
-.later_that_evening { background-position: 0 -21604px; }
-.lazy_college_senior { background-position: 0 -21648px; }
-.le_fu { background-position: 0 -21692px; }
-.lesquee { background-position: 0 -21736px; }
-.like_a_liege { background-position: 0 -21780px; }
-.like_a_ninja { background-position: 0 -21824px; }
-.like_a_sir { background-position: 0 -21868px; }
-.little_kid { background-position: 0 -21912px; }
-.lol { background-position: 0 -21956px; }
-.lol_crazy { background-position: 0 -22000px; }
-.long_long_neck_surprise { background-position: 0 -22044px; }
-.look_from_bottom { background-position: 0 -22088px; }
-.lovely_face { background-position: 0 -22132px; }
-.man_crying { background-position: 0 -22176px; }
-.me_culpa { background-position: 0 -22220px; }
-.me_gangsta { background-position: 0 -22264px; }
-.me_gusta { background-position: 0 -22308px; }
-.me_gusta_creepy { background-position: 0 -22352px; }
-.me_gusta_problemo { background-position: 0 -22396px; }
-.mega_rage_close { background-position: 0 -22440px; }
-.meh_cat { background-position: 0 -22484px; }
-.melvin { background-position: 0 -22528px; }
-.midnight { background-position: 0 -22572px; }
-.milk { background-position: 0 -22616px; }
-.monocle { background-position: 0 -22660px; }
-.mother_of_god { background-position: 0 -22704px; }
-.mother_of_god_annoyed { background-position: 0 -22748px; }
-.mother_of_gusta { background-position: 0 -22792px; }
-.mouth_wide_open { background-position: 0 -22836px; }
-.much_later { background-position: 0 -22880px; }
-.much_much_later { background-position: 0 -22924px; }
-.much_much_later_2 { background-position: 0 -22968px; }
-.much_much_much_later { background-position: 0 -23012px; }
-.music_shit { background-position: 0 -23056px; }
-.musically_oblivious_8th_grader { background-position: 0 -23100px; }
-.must_resist { background-position: 0 -23144px; }
-.nerd { background-position: 0 -23188px; }
-.nerd_rainbow_puke { background-position: 0 -23232px; }
-.net_noob { background-position: 0 -23276px; }
-.never_alone { background-position: 0 -23320px; }
-.newspaper_guy { background-position: 0 -23364px; }
-.newspaper_guy_tear { background-position: 0 -23408px; }
-.next_day { background-position: 0 -23452px; }
-.next_day_2 { background-position: 0 -23496px; }
-.no { background-position: 0 -23540px; }
-.no_me_gusta { background-position: 0 -23584px; }
-.nokia { background-position: 0 -23628px; }
-.NOPE { background-position: 0 -23672px; }
-.not_giving_a_fuck { background-position: 0 -23716px; }
-.not_okay_smile { background-position: 0 -23760px; }
-.not_sure_if_gusta { background-position: 0 -23804px; }
-.nothing_to_do_here { background-position: 0 -23848px; }
-.now_kiss { background-position: 0 -23892px; }
-.nuclear_rage { background-position: 0 -23936px; }
-.numb { background-position: 0 -23980px; }
-.obama_michelle_not_bad { background-position: 0 -24024px; }
-.obama_not_bad { background-position: 0 -24068px; }
-.objection { background-position: 0 -24112px; }
-.oh { background-position: 0 -24156px; }
-.oh_god { background-position: 0 -24200px; }
-.oh_god_why { background-position: 0 -24244px; }
-.oh_my_goodness { background-position: 0 -24288px; }
-.oh_no { background-position: 0 -24332px; }
-.oh_shit { background-position: 0 -24376px; }
-.oh_you { background-position: 0 -24420px; }
-.oh_you_so_cute { background-position: 0 -24464px; }
-.ohhh_yes { background-position: 0 -24508px; }
-.ohhh_yes_front { background-position: 0 -24552px; }
-.ohhhla { background-position: 0 -24596px; }
-.okay_clean { background-position: 0 -24640px; }
-.okay_gusta { background-position: 0 -24684px; }
-.okay_guy { background-position: 0 -24728px; }
-.okay_guy_backgrounded { background-position: 0 -24772px; }
-.okay_guy_no { background-position: 0 -24816px; }
-.okay_pfftch { background-position: 0 -24860px; }
-.omega_rage { background-position: 0 -24904px; }
-.omega_troll { background-position: 0 -24948px; }
-.omg_run { background-position: 0 -24992px; }
-.one_does_not_simply { background-position: 0 -25036px; }
-.one_eternity_later { background-position: 0 -25080px; }
-.one_hour_later { background-position: 0 -25124px; }
-.one_week_later { background-position: 0 -25168px; }
-.OperaHat { background-position: 0 -25212px; }
-.ordinary_muslim_man { background-position: 0 -25256px; }
-.original_rage { background-position: 0 -25300px; }
-.paranoid_parrot { background-position: 0 -25344px; }
-.pedobear { background-position: 0 -25388px; }
-.pedobear_backgrounded { background-position: 0 -25432px; }
-.pedobear_coming { background-position: 0 -25476px; }
-.pfffftch_2 { background-position: 0 -25520px; }
-.pfffftch_3 { background-position: 0 -25564px; }
-.pfffrrr { background-position: 0 -25608px; }
-.pfftch { background-position: 0 -25652px; }
-.pfftttch { background-position: 0 -25696px; }
-.philosoraptor { background-position: 0 -25740px; }
-.photogenic_guy { background-position: 0 -25784px; }
-.pick_up_boy { background-position: 0 -25828px; }
-.pick_up_boy_2 { background-position: 0 -25872px; }
-.pick_up_boy_strikes { background-position: 0 -25916px; }
-.pick_up_boy_with_girl { background-position: 0 -25960px; }
-.pickup_line_panda { background-position: 0 -26004px; }
-.pig_rage { background-position: 0 -26048px; }
-.pirate { background-position: 0 -26092px; }
-.pleaseguy { background-position: 0 -26136px; }
-.poker_face_3 { background-position: 0 -26180px; }
-.pokerface { background-position: 0 -26224px; }
-.pokerface_2 { background-position: 0 -26268px; }
-.pokerface_2_clean { background-position: 0 -26312px; }
-.pokerface_clean { background-position: 0 -26356px; }
-.portal_rainbows { background-position: 0 -26400px; }
-.possibru { background-position: 0 -26444px; }
-.pretty_badass { background-position: 0 -26488px; }
-.problem_guy { background-position: 0 -26532px; }
-.problemo { background-position: 0 -26576px; }
-.provincial_man { background-position: 0 -26620px; }
-.psssyeah { background-position: 0 -26664px; }
-.questioning { background-position: 0 -26708px; }
-.quiet_rage { background-position: 0 -26752px; }
-.rage_cat { background-position: 0 -26796px; }
-.rage_eyes { background-position: 0 -26840px; }
-.rage_fu { background-position: 0 -26884px; }
-.rainbow_out_the_eyes { background-position: 0 -26928px; }
-.rainbow_puke { background-position: 0 -26972px; }
-.reaction_guy { background-position: 0 -27016px; }
-.real_life { background-position: 0 -27060px; }
-.realism_troll { background-position: 0 -27104px; }
-.red_big_smile { background-position: 0 -27148px; }
-.red_concentrated { background-position: 0 -27192px; }
-.red_crying { background-position: 0 -27236px; }
-.red_dazed { background-position: 0 -27280px; }
-.red_determined { background-position: 0 -27324px; }
-.red_dude { background-position: 0 -27368px; }
-.red_dumbfounded { background-position: 0 -27412px; }
-.red_ewbte { background-position: 0 -27456px; }
-.red_excited { background-position: 0 -27500px; }
-.red_excited_bliss { background-position: 0 -27544px; }
-.red_excited_tears { background-position: 0 -27588px; }
-.red_facepalm { background-position: 0 -27632px; }
-.red_fake_smile { background-position: 0 -27676px; }
-.red_forever_alone { background-position: 0 -27720px; }
-.red_freddie { background-position: 0 -27764px; }
-.red_fuck_that_bitch { background-position: 0 -27808px; }
-.red_fuck_yeah { background-position: 0 -27852px; }
-.red_gasp { background-position: 0 -27896px; }
-.red_gasp2 { background-position: 0 -27940px; }
-.red_happy { background-position: 0 -27984px; }
-.red_hmmm { background-position: 0 -28028px; }
-.red_i_wonder { background-position: 0 -28072px; }
-.red_ladystare { background-position: 0 -28116px; }
-.red_ladystare2 { background-position: 0 -28160px; }
-.red_lean { background-position: 0 -28204px; }
-.red_lol { background-position: 0 -28248px; }
-.red_me_gusta { background-position: 0 -28292px; }
-.red_milk { background-position: 0 -28336px; }
-.red_normal { background-position: 0 -28380px; }
-.red_normal2 { background-position: 0 -28424px; }
-.red_okay { background-position: 0 -28468px; }
-.red_omgrun { background-position: 0 -28512px; }
-.red_pfft { background-position: 0 -28556px; }
-.red_quite { background-position: 0 -28600px; }
-.red_rage { background-position: 0 -28644px; }
-.red_rage2 { background-position: 0 -28688px; }
-.red_rage_canadian { background-position: 0 -28732px; }
-.red_rage_extreme { background-position: 0 -28776px; }
-.red_rage_extreme2 { background-position: 0 -28820px; }
-.red_rage_foaming { background-position: 0 -28864px; }
-.red_rage_getting_pissed { background-position: 0 -28908px; }
-.red_rage_mad { background-position: 0 -28952px; }
-.red_rage_mad2 { background-position: 0 -28996px; }
-.red_rage_quiet { background-position: 0 -29040px; }
-.red_rage_shaking { background-position: 0 -29084px; }
-.red_rage_super { background-position: 0 -29128px; }
-.red_really_determined { background-position: 0 -29172px; }
-.red_red_tongue { background-position: 0 -29216px; }
-.red_schlick { background-position: 0 -29260px; }
-.red_smile { background-position: 0 -29304px; }
-.red_sweet_tears { background-position: 0 -29348px; }
-.red_tongue { background-position: 0 -29392px; }
-.red_tongue_down { background-position: 0 -29436px; }
-.red_troll { background-position: 0 -29480px; }
-.red_troll_sad { background-position: 0 -29524px; }
-.red_what { background-position: 0 -29568px; }
-.red_why { background-position: 0 -29612px; }
-.red_why_no_hands { background-position: 0 -29656px; }
-.red_wut { background-position: 0 -29700px; }
-.RedditAlien { background-position: 0 -29744px; }
-.RedditAlien2 { background-position: 0 -29788px; }
-.RedditAlien3 { background-position: 0 -29832px; }
-.redditors_wife { background-position: 0 -29876px; }
-.redhair { background-position: 0 -29920px; }
-.redneck_randal { background-position: 0 -29964px; }
-.ridiciously_photogenic_metalhead { background-position: 0 -30008px; }
-.rly_clean_everything { background-position: 0 -30052px; }
-.royal_wedding_girl { background-position: 0 -30096px; }
-.sad { background-position: 0 -30140px; }
-.sad_computer { background-position: 0 -30184px; }
-.sad_melvin { background-position: 0 -30228px; }
-.sad_shadow { background-position: 0 -30272px; }
-.sad_sitting { background-position: 0 -30316px; }
-.sad_troll_face { background-position: 0 -30360px; }
-.sad_why { background-position: 0 -30404px; }
-.sarcasm { background-position: 0 -30448px; }
-.scared_yao { background-position: 0 -30492px; }
-.scroll_scroll { background-position: 0 -30536px; }
-.scumbag_brain { background-position: 0 -30580px; }
-.scumbag_cap { background-position: 0 -30624px; }
-.scumbag_girl { background-position: 0 -30668px; }
-.scumbag_steve { background-position: 0 -30712px; }
-.serious_not_okay { background-position: 0 -30756px; }
-.seriously { background-position: 0 -30800px; }
-.several_days_later { background-position: 0 -30844px; }
-.sexual_frustration { background-position: 0 -30888px; }
-.sexually_oblivious_rhino { background-position: 0 -30932px; }
-.sheltering_suburban_mom { background-position: 0 -30976px; }
-.shocked { background-position: 0 -31020px; }
-.shrug { background-position: 0 -31064px; }
-.side_mouth { background-position: 0 -31108px; }
-.sincere_troll { background-position: 0 -31152px; }
-.six_hours_later { background-position: 0 -31196px; }
-.six_hours_later_2 { background-position: 0 -31240px; }
-.slowpoke { background-position: 0 -31284px; }
-.smashing { background-position: 0 -31328px; }
-.so_close_freddie_mercury { background-position: 0 -31372px; }
-.so_hardcore { background-position: 0 -31416px; }
-.so_much_win { background-position: 0 -31460px; }
-.so_there { background-position: 0 -31504px; }
-.so_there_close { background-position: 0 -31548px; }
-.socially_awesome_penguin { background-position: 0 -31592px; }
-.socially_awkward_penguin { background-position: 0 -31636px; }
-.something_to_do_here { background-position: 0 -31680px; }
-.son_i_am_disappoint { background-position: 0 -31724px; }
-.speech { background-position: 0 -31768px; }
-.speech2 { background-position: 0 -31812px; }
-.speech3 { background-position: 0 -31856px; }
-.speech4 { background-position: 0 -31900px; }
-.speech5 { background-position: 0 -31944px; }
-.speech6 { background-position: 0 -31988px; }
-.spiderpman { background-position: 0 -32032px; }
-.steamboat_troll { background-position: 0 -32076px; }
-.stoned_what { background-position: 0 -32120px; }
-.stoner_dog { background-position: 0 -32164px; }
-.stop_it { background-position: 0 -32208px; }
-.stop_it_angry { background-position: 0 -32252px; }
-.success { background-position: 0 -32296px; }
-.success_kid { background-position: 0 -32340px; }
-.successful_black_man { background-position: 0 -32384px; }
-.sunny_student { background-position: 0 -32428px; }
-.super_rage { background-position: 0 -32472px; }
-.surprised_Commissar { background-position: 0 -32516px; }
-.surprised_gasp { background-position: 0 -32560px; }
-.surprised_great_scott { background-position: 0 -32604px; }
-.surprised_kid { background-position: 0 -32648px; }
-.surprised_long_neck_surprise { background-position: 0 -32692px; }
-.surprised_mother_of_god { background-position: 0 -32736px; }
-.surprised_oh_fuck_no { background-position: 0 -32780px; }
-.surprised_open_mouth { background-position: 0 -32824px; }
-.surprised_rage_clean { background-position: 0 -32868px; }
-.surprised_wait { background-position: 0 -32912px; }
-.surprised_wide_open { background-position: 0 -32956px; }
-.suspicious { background-position: 0 -33000px; }
-.sweaty_concentrated { background-position: 0 -33044px; }
-.sweet_jesus_eyes_hanging_out { background-position: 0 -33088px; }
-.sweet_jesus_face { background-position: 0 -33132px; }
-.tears_in_the_eyes { background-position: 0 -33176px; }
-.tech_impaired_duck { background-position: 0 -33220px; }
-.thanks { background-position: 0 -33264px; }
-.that_is_suspicious { background-position: 0 -33308px; }
-.the_most_interesting_cat_in_the_world { background-position: 0 -33352px; }
-.the_most_interesting_man_in_the_world { background-position: 0 -33396px; }
-.things_went_okay { background-position: 0 -33440px; }
-.third_world_success { background-position: 0 -33484px; }
-.this_is_awkward { background-position: 0 -33528px; }
-.thousands_of_tears_later { background-position: 0 -33572px; }
-.three_hours_later { background-position: 0 -33616px; }
-.three_hours_later_2 { background-position: 0 -33660px; }
-.three_weeks_later { background-position: 0 -33704px; }
-.three_weeks_later_2 { background-position: 0 -33748px; }
-.thumbs_up { background-position: 0 -33792px; }
-.today_is_monday { background-position: 0 -33836px; }
-.toker_face { background-position: 0 -33880px; }
-.tomorrow { background-position: 0 -33924px; }
-.tomorrow_for_sure { background-position: 0 -33968px; }
-.trees { background-position: 0 -34012px; }
-.trees_angry { background-position: 0 -34056px; }
-.trees_big_mouth { background-position: 0 -34100px; }
-.trees_confused { background-position: 0 -34144px; }
-.trees_happy { background-position: 0 -34188px; }
-.trees_small_mouth { background-position: 0 -34232px; }
-.trees_smile { background-position: 0 -34276px; }
-.trees_stoned { background-position: 0 -34320px; }
-.trees_stoned_exhale { background-position: 0 -34364px; }
-.trees_stoned_inhale { background-position: 0 -34408px; }
-.trex_rage { background-position: 0 -34452px; }
-.troll_2 { background-position: 0 -34496px; }
-.troll_badumts { background-position: 0 -34540px; }
-.troll_ballon { background-position: 0 -34584px; }
-.troll_black { background-position: 0 -34628px; }
-.troll_black_beaten { background-position: 0 -34672px; }
-.troll_crazy { background-position: 0 -34716px; }
-.troll_dad { background-position: 0 -34760px; }
-.troll_dad_dance { background-position: 0 -34804px; }
-.troll_dad_full { background-position: 0 -34848px; }
-.troll_dad_monocle { background-position: 0 -34892px; }
-.troll_face { background-position: 0 -34936px; }
-.troll_face_backgrounded { background-position: 0 -34980px; }
-.troll_full { background-position: 0 -35024px; }
-.troll_granny { background-position: 0 -35068px; }
-.troll_gusta { background-position: 0 -35112px; }
-.troll_mickey { background-position: 0 -35156px; }
-.troll_problem { background-position: 0 -35200px; }
-.troll_typing { background-position: 0 -35244px; }
-.trollol { background-position: 0 -35288px; }
-.trologirl { background-position: 0 -35332px; }
-.true_fucking_story { background-position: 0 -35376px; }
-.true_story { background-position: 0 -35420px; }
-.trumpet { background-position: 0 -35464px; }
-.twenty_minutes_later { background-position: 0 -35508px; }
-.two_boring_minutes { background-position: 0 -35552px; }
-.two_hours_later { background-position: 0 -35596px; }
-.two_hours_later_2 { background-position: 0 -35640px; }
-.two_hours_later_3 { background-position: 0 -35684px; }
-.two_hours_later_4 { background-position: 0 -35728px; }
-.two_hours_later_5 { background-position: 0 -35772px; }
-.u_jelly { background-position: 0 -35816px; }
-.ultra_gay { background-position: 0 -35860px; }
-.unhappy { background-position: 0 -35904px; }
-.wait { background-position: 0 -35948px; }
-.wait_no { background-position: 0 -35992px; }
-.wat { background-position: 0 -36036px; }
-.wha { background-position: 0 -36080px; }
-.what { background-position: 0 -36124px; }
-.what_have_you_done { background-position: 0 -36168px; }
-.what_this_badass_shit_means { background-position: 0 -36212px; }
-.why_boy { background-position: 0 -36256px; }
-.whyyy { background-position: 0 -36300px; }
-.whyyy_backgrounded { background-position: 0 -36344px; }
-.will_smith { background-position: 0 -36388px; }
-.will_smith___tada { background-position: 0 -36432px; }
-.wonka { background-position: 0 -36476px; }
-.wonka_yao { background-position: 0 -36520px; }
-.wow { background-position: 0 -36564px; }
-.wut { background-position: 0 -36608px; }
-.x_all_the_y { background-position: 0 -36652px; }
-.y_u_no { background-position: 0 -36696px; }
-.y_u_no_crying { background-position: 0 -36740px; }
-.yao_ming_forever_alone { background-position: 0 -36784px; }
-.yao_ming_pirate { background-position: 0 -36828px; }
-.yay { background-position: 0 -36872px; }
-.yea_science { background-position: 0 -36916px; }
-.yes_i_do_say { background-position: 0 -36960px; }
-.yes_this_is_dog { background-position: 0 -37004px; }
-.yesterday { background-position: 0 -37048px; }
-.yo_dawg { background-position: 0 -37092px; }
-.you_are_the_man { background-position: 0 -37136px; }
-.you_dont_say { background-position: 0 -37180px; }
-.you_fucking_kidding_me_son { background-position: 0 -37224px; }
-.you_got_it { background-position: 0 -37268px; }
-.you_seem_upset { background-position: 0 -37312px; }
-.you_win_this_time { background-position: 0 -37356px; }
-.your_pain_amuses_me { background-position: 0 -37400px; }
-.youre_the_man { background-position: 0 -37444px; }
+._10_seconds_later.png { background-image: url(image-path('10_seconds_later.png')); }
+._10guy.png { background-image: url(image-path('10guy.png')); }
+._12_seconds_later.png { background-image: url(image-path('12_seconds_later.png')); }
+._15_minutes_later.png { background-image: url(image-path('15_minutes_later.png')); }
+._1_minute_37_seconds.png { background-image: url(image-path('1_minute_37_seconds.png')); }
+._2000_years_later.png { background-image: url(image-path('2000_years_later.png')); }
+._3000_years_later.png { background-image: url(image-path('3000_years_later.png')); }
+._346_minutes_later.png { background-image: url(image-path('346_minutes_later.png')); }
+._3_28_am.png { background-image: url(image-path('3_28_am.png')); }
+._3_days_later.png { background-image: url(image-path('3_days_later.png')); }
+._3_days_later_2.png { background-image: url(image-path('3_days_later_2.png')); }
+._3_days_later_3.png { background-image: url(image-path('3_days_later_3.png')); }
+._3_days_later_4.png { background-image: url(image-path('3_days_later_4.png')); }
+._3_days_later_5.png { background-image: url(image-path('3_days_later_5.png')); }
+._3_hours_later.png { background-image: url(image-path('3_hours_later.png')); }
+._48_hours_later.png { background-image: url(image-path('48_hours_later.png')); }
+._4_to_6_weeks_later.png { background-image: url(image-path('4_to_6_weeks_later.png')); }
+._5_minutes_later.png { background-image: url(image-path('5_minutes_later.png')); }
+._6_half_hours_later.png { background-image: url(image-path('6_half_hours_later.png')); }
+._6_months_later.png { background-image: url(image-path('6_months_later.png')); }
+._7_59_am.png { background-image: url(image-path('7_59_am.png')); }
+._7_hours_later.png { background-image: url(image-path('7_hours_later.png')); }
+._8_01_pm.png { background-image: url(image-path('8_01_pm.png')); }
+._8_hours_later.png { background-image: url(image-path('8_hours_later.png')); }
+.a_few_inches_later.png { background-image: url(image-path('a_few_inches_later.png')); }
+.a_few_minutes_later.png { background-image: url(image-path('a_few_minutes_later.png')); }
+.a_few_moments_later.png { background-image: url(image-path('a_few_moments_later.png')); }
+.accidentally_open_internet_explorer.png { background-image: url(image-path('accidentally_open_internet_explorer.png')); }
+.actually.png { background-image: url(image-path('actually.png')); }
+.advice_dog.png { background-image: url(image-path('advice_dog.png')); }
+.advice_god.png { background-image: url(image-path('advice_god.png')); }
+.advice_yoda_gives.png { background-image: url(image-path('advice_yoda_gives.png')); }
+.aint_that_some_shit.png { background-image: url(image-path('aint_that_some_shit.png')); }
+.alien.png { background-image: url(image-path('alien.png')); }
+.all_the_things_fuu.png { background-image: url(image-path('all_the_things_fuu.png')); }
+.all_the_things_sad.png { background-image: url(image-path('all_the_things_sad.png')); }
+.angry_bang.png { background-image: url(image-path('angry_bang.png')); }
+.angry_dark_stare.png { background-image: url(image-path('angry_dark_stare.png')); }
+.angry_head_shake.png { background-image: url(image-path('angry_head_shake.png')); }
+.angry_mom.png { background-image: url(image-path('angry_mom.png')); }
+.angry_mouth.png { background-image: url(image-path('angry_mouth.png')); }
+.angry_school_boy.png { background-image: url(image-path('angry_school_boy.png')); }
+.angry_shaking.png { background-image: url(image-path('angry_shaking.png')); }
+.angry_with_pc.png { background-image: url(image-path('angry_with_pc.png')); }
+.annoying_childhood_friend.png { background-image: url(image-path('annoying_childhood_friend.png')); }
+.annoying_facebook_girl.png { background-image: url(image-path('annoying_facebook_girl.png')); }
+.anonymous_mask.png { background-image: url(image-path('anonymous_mask.png')); }
+.anti_joke_chicken.png { background-image: url(image-path('anti_joke_chicken.png')); }
+.are_you_fucking_kidding_me.png { background-image: url(image-path('are_you_fucking_kidding_me.png')); }
+.are_you_fucking_kidding_me_clean.png { background-image: url(image-path('are_you_fucking_kidding_me_clean.png')); }
+.arrow_in_knee.png { background-image: url(image-path('arrow_in_knee.png')); }
+.art_student_owl.png { background-image: url(image-path('art_student_owl.png')); }
+.awkward_moment.png { background-image: url(image-path('awkward_moment.png')); }
+.aww_yeah.png { background-image: url(image-path('aww_yeah.png')); }
+.baby_godfather.png { background-image: url(image-path('baby_godfather.png')); }
+.baby_troll.png { background-image: url(image-path('baby_troll.png')); }
+.bad_advice_cat.png { background-image: url(image-path('bad_advice_cat.png')); }
+.bad_luck_brian.png { background-image: url(image-path('bad_luck_brian.png')); }
+.bad_pokerface.png { background-image: url(image-path('bad_pokerface.png')); }
+.badass.gif { background-image: url(image-path('badass.gif')); }
+.bear_grylls.png { background-image: url(image-path('bear_grylls.png')); }
+.beard_guy.png { background-image: url(image-path('beard_guy.png')); }
+.beer_guy.png { background-image: url(image-path('beer_guy.png')); }
+.beng.png { background-image: url(image-path('beng.png')); }
+.big_smile.png { background-image: url(image-path('big_smile.png')); }
+.bill_oreilly.png { background-image: url(image-path('bill_oreilly.png')); }
+.bitchslap.png { background-image: url(image-path('bitchslap.png')); }
+.black_big_smile.png { background-image: url(image-path('black_big_smile.png')); }
+.black_concentrated.png { background-image: url(image-path('black_concentrated.png')); }
+.black_crying.png { background-image: url(image-path('black_crying.png')); }
+.black_dazed.png { background-image: url(image-path('black_dazed.png')); }
+.black_determined.png { background-image: url(image-path('black_determined.png')); }
+.black_dude.png { background-image: url(image-path('black_dude.png')); }
+.black_dumbfounded.png { background-image: url(image-path('black_dumbfounded.png')); }
+.black_ewbte.png { background-image: url(image-path('black_ewbte.png')); }
+.black_excited.png { background-image: url(image-path('black_excited.png')); }
+.black_excited_bliss.png { background-image: url(image-path('black_excited_bliss.png')); }
+.black_excited_tears.png { background-image: url(image-path('black_excited_tears.png')); }
+.black_facepalm.png { background-image: url(image-path('black_facepalm.png')); }
+.black_fake_smile.png { background-image: url(image-path('black_fake_smile.png')); }
+.black_forever_alone.png { background-image: url(image-path('black_forever_alone.png')); }
+.black_freddie.png { background-image: url(image-path('black_freddie.png')); }
+.black_fuck_that_bitch.png { background-image: url(image-path('black_fuck_that_bitch.png')); }
+.black_fuck_yeah.png { background-image: url(image-path('black_fuck_yeah.png')); }
+.black_gasp.png { background-image: url(image-path('black_gasp.png')); }
+.black_gasp2.png { background-image: url(image-path('black_gasp2.png')); }
+.black_guy_gun.png { background-image: url(image-path('black_guy_gun.png')); }
+.black_happy.png { background-image: url(image-path('black_happy.png')); }
+.black_hmmm.png { background-image: url(image-path('black_hmmm.png')); }
+.black_i_wonder.png { background-image: url(image-path('black_i_wonder.png')); }
+.black_ladystare.png { background-image: url(image-path('black_ladystare.png')); }
+.black_ladystare2.png { background-image: url(image-path('black_ladystare2.png')); }
+.black_lean.png { background-image: url(image-path('black_lean.png')); }
+.black_lol.png { background-image: url(image-path('black_lol.png')); }
+.black_me_gusta.png { background-image: url(image-path('black_me_gusta.png')); }
+.black_milk.png { background-image: url(image-path('black_milk.png')); }
+.black_normal.png { background-image: url(image-path('black_normal.png')); }
+.black_normal2.png { background-image: url(image-path('black_normal2.png')); }
+.black_okay.png { background-image: url(image-path('black_okay.png')); }
+.black_omgrun.png { background-image: url(image-path('black_omgrun.png')); }
+.black_pfft.png { background-image: url(image-path('black_pfft.png')); }
+.black_quite.png { background-image: url(image-path('black_quite.png')); }
+.black_rage.png { background-image: url(image-path('black_rage.png')); }
+.black_rage2.png { background-image: url(image-path('black_rage2.png')); }
+.black_rage_canadian.png { background-image: url(image-path('black_rage_canadian.png')); }
+.black_rage_extreme.png { background-image: url(image-path('black_rage_extreme.png')); }
+.black_rage_extreme2.png { background-image: url(image-path('black_rage_extreme2.png')); }
+.black_rage_foaming.png { background-image: url(image-path('black_rage_foaming.png')); }
+.black_rage_getting_pissed.png { background-image: url(image-path('black_rage_getting_pissed.png')); }
+.black_rage_mad.png { background-image: url(image-path('black_rage_mad.png')); }
+.black_rage_mad2.png { background-image: url(image-path('black_rage_mad2.png')); }
+.black_rage_quiet.png { background-image: url(image-path('black_rage_quiet.png')); }
+.black_rage_shaking.png { background-image: url(image-path('black_rage_shaking.png')); }
+.black_rage_super.png { background-image: url(image-path('black_rage_super.png')); }
+.black_really_determined.png { background-image: url(image-path('black_really_determined.png')); }
+.black_red_tongue.png { background-image: url(image-path('black_red_tongue.png')); }
+.black_schlick.png { background-image: url(image-path('black_schlick.png')); }
+.black_smile.png { background-image: url(image-path('black_smile.png')); }
+.black_sweet_tears.png { background-image: url(image-path('black_sweet_tears.png')); }
+.black_tongue_down.png { background-image: url(image-path('black_tongue_down.png')); }
+.black_troll.png { background-image: url(image-path('black_troll.png')); }
+.black_troll_sad.png { background-image: url(image-path('black_troll_sad.png')); }
+.black_what.png { background-image: url(image-path('black_what.png')); }
+.black_why.png { background-image: url(image-path('black_why.png')); }
+.black_why_no_hands.png { background-image: url(image-path('black_why_no_hands.png')); }
+.black_wut.png { background-image: url(image-path('black_wut.png')); }
+.blackhair.png { background-image: url(image-path('blackhair.png')); }
+.blackhair2.png { background-image: url(image-path('blackhair2.png')); }
+.blackhair3.png { background-image: url(image-path('blackhair3.png')); }
+.blankhair.png { background-image: url(image-path('blankhair.png')); }
+.blonde_big_smile.png { background-image: url(image-path('blonde_big_smile.png')); }
+.blonde_concentrated.png { background-image: url(image-path('blonde_concentrated.png')); }
+.blonde_crying.png { background-image: url(image-path('blonde_crying.png')); }
+.blonde_dazed.png { background-image: url(image-path('blonde_dazed.png')); }
+.blonde_determined.png { background-image: url(image-path('blonde_determined.png')); }
+.blonde_dude.png { background-image: url(image-path('blonde_dude.png')); }
+.blonde_dumbfounded.png { background-image: url(image-path('blonde_dumbfounded.png')); }
+.blonde_ewbte.png { background-image: url(image-path('blonde_ewbte.png')); }
+.blonde_excited.png { background-image: url(image-path('blonde_excited.png')); }
+.blonde_excited_bliss.png { background-image: url(image-path('blonde_excited_bliss.png')); }
+.blonde_excited_tears.png { background-image: url(image-path('blonde_excited_tears.png')); }
+.blonde_facepalm.png { background-image: url(image-path('blonde_facepalm.png')); }
+.blonde_fake_smile.png { background-image: url(image-path('blonde_fake_smile.png')); }
+.blonde_forever_alone.png { background-image: url(image-path('blonde_forever_alone.png')); }
+.blonde_freddie.png { background-image: url(image-path('blonde_freddie.png')); }
+.blonde_fuck_that_bitch.png { background-image: url(image-path('blonde_fuck_that_bitch.png')); }
+.blonde_fuck_yeah.png { background-image: url(image-path('blonde_fuck_yeah.png')); }
+.blonde_gasp.png { background-image: url(image-path('blonde_gasp.png')); }
+.blonde_gasp2.png { background-image: url(image-path('blonde_gasp2.png')); }
+.blonde_genius.png { background-image: url(image-path('blonde_genius.png')); }
+.blonde_happy.png { background-image: url(image-path('blonde_happy.png')); }
+.blonde_hmmm.png { background-image: url(image-path('blonde_hmmm.png')); }
+.blonde_i_wonder.png { background-image: url(image-path('blonde_i_wonder.png')); }
+.blonde_ladystare.png { background-image: url(image-path('blonde_ladystare.png')); }
+.blonde_ladystare2.png { background-image: url(image-path('blonde_ladystare2.png')); }
+.blonde_lean.png { background-image: url(image-path('blonde_lean.png')); }
+.blonde_lol.png { background-image: url(image-path('blonde_lol.png')); }
+.blonde_me_gusta.png { background-image: url(image-path('blonde_me_gusta.png')); }
+.blonde_milk.png { background-image: url(image-path('blonde_milk.png')); }
+.blonde_normal.png { background-image: url(image-path('blonde_normal.png')); }
+.blonde_normal2.png { background-image: url(image-path('blonde_normal2.png')); }
+.blonde_okay.png { background-image: url(image-path('blonde_okay.png')); }
+.blonde_omgrun.png { background-image: url(image-path('blonde_omgrun.png')); }
+.blonde_pfft.png { background-image: url(image-path('blonde_pfft.png')); }
+.blonde_quite.png { background-image: url(image-path('blonde_quite.png')); }
+.blonde_rage.png { background-image: url(image-path('blonde_rage.png')); }
+.blonde_rage2.png { background-image: url(image-path('blonde_rage2.png')); }
+.blonde_rage_canadian.png { background-image: url(image-path('blonde_rage_canadian.png')); }
+.blonde_rage_extreme.png { background-image: url(image-path('blonde_rage_extreme.png')); }
+.blonde_rage_extreme2.png { background-image: url(image-path('blonde_rage_extreme2.png')); }
+.blonde_rage_foaming.png { background-image: url(image-path('blonde_rage_foaming.png')); }
+.blonde_rage_getting_pissed.png { background-image: url(image-path('blonde_rage_getting_pissed.png')); }
+.blonde_rage_mad.png { background-image: url(image-path('blonde_rage_mad.png')); }
+.blonde_rage_mad2.png { background-image: url(image-path('blonde_rage_mad2.png')); }
+.blonde_rage_quiet.png { background-image: url(image-path('blonde_rage_quiet.png')); }
+.blonde_rage_shaking.png { background-image: url(image-path('blonde_rage_shaking.png')); }
+.blonde_rage_super.png { background-image: url(image-path('blonde_rage_super.png')); }
+.blonde_really_determined.png { background-image: url(image-path('blonde_really_determined.png')); }
+.blonde_red_tongue.png { background-image: url(image-path('blonde_red_tongue.png')); }
+.blonde_schlick.png { background-image: url(image-path('blonde_schlick.png')); }
+.blonde_smile.png { background-image: url(image-path('blonde_smile.png')); }
+.blonde_sweet_tears.png { background-image: url(image-path('blonde_sweet_tears.png')); }
+.blonde_tongue_down.png { background-image: url(image-path('blonde_tongue_down.png')); }
+.blonde_troll.png { background-image: url(image-path('blonde_troll.png')); }
+.blonde_troll_sad.png { background-image: url(image-path('blonde_troll_sad.png')); }
+.blonde_what.png { background-image: url(image-path('blonde_what.png')); }
+.blonde_why.png { background-image: url(image-path('blonde_why.png')); }
+.blonde_why_no_hands.png { background-image: url(image-path('blonde_why_no_hands.png')); }
+.blonde_wut.png { background-image: url(image-path('blonde_wut.png')); }
+.blondehair.png { background-image: url(image-path('blondehair.png')); }
+.bloody_keyboard.gif { background-image: url(image-path('bloody_keyboard.gif')); }
+.blue_y_u_no.png { background-image: url(image-path('blue_y_u_no.png')); }
+.blushing.png { background-image: url(image-path('blushing.png')); }
+.boobs.png { background-image: url(image-path('boobs.png')); }
+.brace_yourselves_x_is_coming.png { background-image: url(image-path('brace_yourselves_x_is_coming.png')); }
+.brad_pitt.png { background-image: url(image-path('brad_pitt.png')); }
+.brant_rules.png { background-image: url(image-path('brant_rules.png')); }
+.broken_heart.png { background-image: url(image-path('broken_heart.png')); }
+.brunette_big_smile.png { background-image: url(image-path('brunette_big_smile.png')); }
+.brunette_concentrated.png { background-image: url(image-path('brunette_concentrated.png')); }
+.brunette_crying.png { background-image: url(image-path('brunette_crying.png')); }
+.brunette_dazed.png { background-image: url(image-path('brunette_dazed.png')); }
+.brunette_determined.png { background-image: url(image-path('brunette_determined.png')); }
+.brunette_dude.png { background-image: url(image-path('brunette_dude.png')); }
+.brunette_dumbfounded.png { background-image: url(image-path('brunette_dumbfounded.png')); }
+.brunette_ewbte.png { background-image: url(image-path('brunette_ewbte.png')); }
+.brunette_excited.png { background-image: url(image-path('brunette_excited.png')); }
+.brunette_excited_bliss.png { background-image: url(image-path('brunette_excited_bliss.png')); }
+.brunette_excited_tears.png { background-image: url(image-path('brunette_excited_tears.png')); }
+.brunette_facepalm.png { background-image: url(image-path('brunette_facepalm.png')); }
+.brunette_fake_smile.png { background-image: url(image-path('brunette_fake_smile.png')); }
+.brunette_forever_alone.png { background-image: url(image-path('brunette_forever_alone.png')); }
+.brunette_freddie.png { background-image: url(image-path('brunette_freddie.png')); }
+.brunette_fuck_that_bitch.png { background-image: url(image-path('brunette_fuck_that_bitch.png')); }
+.brunette_fuck_yeah.png { background-image: url(image-path('brunette_fuck_yeah.png')); }
+.brunette_gasp.png { background-image: url(image-path('brunette_gasp.png')); }
+.brunette_gasp2.png { background-image: url(image-path('brunette_gasp2.png')); }
+.brunette_happy.png { background-image: url(image-path('brunette_happy.png')); }
+.brunette_hmmm.png { background-image: url(image-path('brunette_hmmm.png')); }
+.brunette_i_wonder.png { background-image: url(image-path('brunette_i_wonder.png')); }
+.brunette_ladystare.png { background-image: url(image-path('brunette_ladystare.png')); }
+.brunette_ladystare2.png { background-image: url(image-path('brunette_ladystare2.png')); }
+.brunette_lean.png { background-image: url(image-path('brunette_lean.png')); }
+.brunette_lol.png { background-image: url(image-path('brunette_lol.png')); }
+.brunette_me_gusta.png { background-image: url(image-path('brunette_me_gusta.png')); }
+.brunette_milk.png { background-image: url(image-path('brunette_milk.png')); }
+.brunette_normal.png { background-image: url(image-path('brunette_normal.png')); }
+.brunette_normal2.png { background-image: url(image-path('brunette_normal2.png')); }
+.brunette_okay.png { background-image: url(image-path('brunette_okay.png')); }
+.brunette_omgrun.png { background-image: url(image-path('brunette_omgrun.png')); }
+.brunette_pfft.png { background-image: url(image-path('brunette_pfft.png')); }
+.brunette_quite.png { background-image: url(image-path('brunette_quite.png')); }
+.brunette_rage.png { background-image: url(image-path('brunette_rage.png')); }
+.brunette_rage2.png { background-image: url(image-path('brunette_rage2.png')); }
+.brunette_rage_canadian.png { background-image: url(image-path('brunette_rage_canadian.png')); }
+.brunette_rage_extreme.png { background-image: url(image-path('brunette_rage_extreme.png')); }
+.brunette_rage_extreme2.png { background-image: url(image-path('brunette_rage_extreme2.png')); }
+.brunette_rage_foaming.png { background-image: url(image-path('brunette_rage_foaming.png')); }
+.brunette_rage_getting_pissed.png { background-image: url(image-path('brunette_rage_getting_pissed.png')); }
+.brunette_rage_mad.png { background-image: url(image-path('brunette_rage_mad.png')); }
+.brunette_rage_mad2.png { background-image: url(image-path('brunette_rage_mad2.png')); }
+.brunette_rage_quiet.png { background-image: url(image-path('brunette_rage_quiet.png')); }
+.brunette_rage_shaking.png { background-image: url(image-path('brunette_rage_shaking.png')); }
+.brunette_really_determined.png { background-image: url(image-path('brunette_really_determined.png')); }
+.brunette_red_tongue.png { background-image: url(image-path('brunette_red_tongue.png')); }
+.brunette_schlick.png { background-image: url(image-path('brunette_schlick.png')); }
+.brunette_smile.png { background-image: url(image-path('brunette_smile.png')); }
+.brunette_sweet_tears.png { background-image: url(image-path('brunette_sweet_tears.png')); }
+.brunette_tongue_down.png { background-image: url(image-path('brunette_tongue_down.png')); }
+.brunette_troll.png { background-image: url(image-path('brunette_troll.png')); }
+.brunette_troll_sad.png { background-image: url(image-path('brunette_troll_sad.png')); }
+.brunette_what.png { background-image: url(image-path('brunette_what.png')); }
+.brunette_why.png { background-image: url(image-path('brunette_why.png')); }
+.brunette_why_no_hands.png { background-image: url(image-path('brunette_why_no_hands.png')); }
+.brunette_wut.png { background-image: url(image-path('brunette_wut.png')); }
+.brunettehair.png { background-image: url(image-path('brunettehair.png')); }
+.business_cat.png { background-image: url(image-path('business_cat.png')); }
+.butthurt_dweller.png { background-image: url(image-path('butthurt_dweller.png')); }
+.canadian_rage.png { background-image: url(image-path('canadian_rage.png')); }
+.cat_chin.png { background-image: url(image-path('cat_chin.png')); }
+.cat_cuteness_overload.png { background-image: url(image-path('cat_cuteness_overload.png')); }
+.cat_gasp.png { background-image: url(image-path('cat_gasp.png')); }
+.cereal_guy.png { background-image: url(image-path('cereal_guy.png')); }
+.cereal_guy_angry.png { background-image: url(image-path('cereal_guy_angry.png')); }
+.cereal_guy_animation.gif { background-image: url(image-path('cereal_guy_animation.gif')); }
+.cereal_guy_big_squint.png { background-image: url(image-path('cereal_guy_big_squint.png')); }
+.cereal_guy_drink_sip.png { background-image: url(image-path('cereal_guy_drink_sip.png')); }
+.cereal_guy_original.png { background-image: url(image-path('cereal_guy_original.png')); }
+.cereal_guy_spitting.png { background-image: url(image-path('cereal_guy_spitting.png')); }
+.cereal_guy_squint.png { background-image: url(image-path('cereal_guy_squint.png')); }
+.challenge_accepted.png { background-image: url(image-path('challenge_accepted.png')); }
+.challenge_accepted_drunk.png { background-image: url(image-path('challenge_accepted_drunk.png')); }
+.challenge_considered.png { background-image: url(image-path('challenge_considered.png')); }
+.challenge_denied.png { background-image: url(image-path('challenge_denied.png')); }
+.challenge_failed.png { background-image: url(image-path('challenge_failed.png')); }
+.chef_hat.png { background-image: url(image-path('chef_hat.png')); }
+.chemistry_cat.png { background-image: url(image-path('chemistry_cat.png')); }
+.chin_strapping.png { background-image: url(image-path('chin_strapping.png')); }
+.classic_rage.png { background-image: url(image-path('classic_rage.png')); }
+.clean_everything.png { background-image: url(image-path('clean_everything.png')); }
+.clever_girl.png { background-image: url(image-path('clever_girl.png')); }
+.college_liberal.png { background-image: url(image-path('college_liberal.png')); }
+.computer_slice.png { background-image: url(image-path('computer_slice.png')); }
+.computer_stare.png { background-image: url(image-path('computer_stare.png')); }
+.concentrate.png { background-image: url(image-path('concentrate.png')); }
+.concentrated.png { background-image: url(image-path('concentrated.png')); }
+.concentrated_teeth.png { background-image: url(image-path('concentrated_teeth.png')); }
+.conflicting_emotions.png { background-image: url(image-path('conflicting_emotions.png')); }
+.conspiracy_keanu.png { background-image: url(image-path('conspiracy_keanu.png')); }
+.cook_fap.png { background-image: url(image-path('cook_fap.png')); }
+.courage_wolf.png { background-image: url(image-path('courage_wolf.png')); }
+.crazy_rage.png { background-image: url(image-path('crazy_rage.png')); }
+.creepy_dark.png { background-image: url(image-path('creepy_dark.png')); }
+.creepy_glasses_guy.png { background-image: url(image-path('creepy_glasses_guy.png')); }
+.creepy_troll.png { background-image: url(image-path('creepy_troll.png')); }
+.cry_pc.png { background-image: url(image-path('cry_pc.png')); }
+.crying.png { background-image: url(image-path('crying.png')); }
+.crying_animation.gif { background-image: url(image-path('crying_animation.gif')); }
+.cute_kid.png { background-image: url(image-path('cute_kid.png')); }
+.cute_little_kid.png { background-image: url(image-path('cute_little_kid.png')); }
+.cuteness_overload.png { background-image: url(image-path('cuteness_overload.png')); }
+.cuteness_overload_2.png { background-image: url(image-path('cuteness_overload_2.png')); }
+.daily_lie.png { background-image: url(image-path('daily_lie.png')); }
+.damn.png { background-image: url(image-path('damn.png')); }
+.dat_ash.png { background-image: url(image-path('dat_ash.png')); }
+.dat_ass.png { background-image: url(image-path('dat_ass.png')); }
+.dating_site_murderer.png { background-image: url(image-path('dating_site_murderer.png')); }
+.day_four.png { background-image: url(image-path('day_four.png')); }
+.day_three.png { background-image: url(image-path('day_three.png')); }
+.day_two.png { background-image: url(image-path('day_two.png')); }
+.depression_dog.png { background-image: url(image-path('depression_dog.png')); }
+.derp_gusta.png { background-image: url(image-path('derp_gusta.png')); }
+.Derp_Hitler.png { background-image: url(image-path('Derp_Hitler.png')); }
+.derpina.png { background-image: url(image-path('derpina.png')); }
+.derpina_eyes_closed.png { background-image: url(image-path('derpina_eyes_closed.png')); }
+.desk_flip.png { background-image: url(image-path('desk_flip.png')); }
+.devil.png { background-image: url(image-path('devil.png')); }
+.didnt_read_lol.gif { background-image: url(image-path('didnt_read_lol.gif')); }
+.disaster_girl.png { background-image: url(image-path('disaster_girl.png')); }
+.dog_wetodd.png { background-image: url(image-path('dog_wetodd.png')); }
+.dolan.png { background-image: url(image-path('dolan.png')); }
+.double_facepalm.png { background-image: url(image-path('double_facepalm.png')); }
+.drinkin_coke.png { background-image: url(image-path('drinkin_coke.png')); }
+.drunk_baby.png { background-image: url(image-path('drunk_baby.png')); }
+.duck_yeah.png { background-image: url(image-path('duck_yeah.png')); }
+.duckface.png { background-image: url(image-path('duckface.png')); }
+.dude.png { background-image: url(image-path('dude.png')); }
+.dude_come_on.png { background-image: url(image-path('dude_come_on.png')); }
+.dwight_schrute.png { background-image: url(image-path('dwight_schrute.png')); }
+.efl_troll_face.png { background-image: url(image-path('efl_troll_face.png')); }
+.eight_hours_later.png { background-image: url(image-path('eight_hours_later.png')); }
+.embrace_pc.png { background-image: url(image-path('embrace_pc.png')); }
+.epic_win.png { background-image: url(image-path('epic_win.png')); }
+.eventually.png { background-image: url(image-path('eventually.png')); }
+.everything_is_beatiful.png { background-image: url(image-path('everything_is_beatiful.png')); }
+.everything_went_better.png { background-image: url(image-path('everything_went_better.png')); }
+.evil_cows.png { background-image: url(image-path('evil_cows.png')); }
+.evil_smile.png { background-image: url(image-path('evil_smile.png')); }
+.eye_half_closed.png { background-image: url(image-path('eye_half_closed.png')); }
+.eyebrow_look.png { background-image: url(image-path('eyebrow_look.png')); }
+.fabulous.png { background-image: url(image-path('fabulous.png')); }
+.face_mustache.png { background-image: url(image-path('face_mustache.png')); }
+.facepalm.png { background-image: url(image-path('facepalm.png')); }
+.facepalm_female.png { background-image: url(image-path('facepalm_female.png')); }
+.facepalm_picard.png { background-image: url(image-path('facepalm_picard.png')); }
+.faces_together.png { background-image: url(image-path('faces_together.png')); }
+.fantastic.gif { background-image: url(image-path('fantastic.gif')); }
+.fap.png { background-image: url(image-path('fap.png')); }
+.fap_accepted.png { background-image: url(image-path('fap_accepted.png')); }
+.fap_gentleman.png { background-image: url(image-path('fap_gentleman.png')); }
+.fap_schlick_female.png { background-image: url(image-path('fap_schlick_female.png')); }
+.fap_scream.png { background-image: url(image-path('fap_scream.png')); }
+.feel_like_a_ninja.png { background-image: url(image-path('feel_like_a_ninja.png')); }
+.feelings_chaos.gif { background-image: url(image-path('feelings_chaos.gif')); }
+.feels_good_man.png { background-image: url(image-path('feels_good_man.png')); }
+.female_aww_yeah.png { background-image: url(image-path('female_aww_yeah.png')); }
+.female_rage.png { background-image: url(image-path('female_rage.png')); }
+.female_seriously_glasses.png { background-image: url(image-path('female_seriously_glasses.png')); }
+.fffffffuuuuuuuuuuuu.png { background-image: url(image-path('fffffffuuuuuuuuuuuu.png')); }
+.fine_troll_dancing.gif { background-image: url(image-path('fine_troll_dancing.gif')); }
+.first_world_problems.png { background-image: url(image-path('first_world_problems.png')); }
+.forever_a_gamer.png { background-image: url(image-path('forever_a_gamer.png')); }
+.forever_alone.png { background-image: url(image-path('forever_alone.png')); }
+.forever_alone_clean.png { background-image: url(image-path('forever_alone_clean.png')); }
+.forever_alone_computer.png { background-image: url(image-path('forever_alone_computer.png')); }
+.forever_alone_crying.gif { background-image: url(image-path('forever_alone_crying.gif')); }
+.forever_alone_dancing.gif { background-image: url(image-path('forever_alone_dancing.gif')); }
+.forever_alone_dancing_(with_text).gif { background-image: url(image-path('forever_alone_dancing_(with_text).gif')); }
+.forever_alone_face_only.png { background-image: url(image-path('forever_alone_face_only.png')); }
+.forever_alone_happy.png { background-image: url(image-path('forever_alone_happy.png')); }
+.forever_alone_mask.gif { background-image: url(image-path('forever_alone_mask.gif')); }
+.forever_alone_pirate.png { background-image: url(image-path('forever_alone_pirate.png')); }
+.forever_alone_sad.png { background-image: url(image-path('forever_alone_sad.png')); }
+.forever_alone_speaking.gif { background-image: url(image-path('forever_alone_speaking.gif')); }
+.forever_alone_together.png { background-image: url(image-path('forever_alone_together.png')); }
+.foul_bachelor_frog.png { background-image: url(image-path('foul_bachelor_frog.png')); }
+.foul_bachelorette_frog.png { background-image: url(image-path('foul_bachelorette_frog.png')); }
+.freddie_girl.png { background-image: url(image-path('freddie_girl.png')); }
+.freddie_mercury.png { background-image: url(image-path('freddie_mercury.png')); }
+.french.png { background-image: url(image-path('french.png')); }
+.frogman.png { background-image: url(image-path('frogman.png')); }
+.frogman_happy.png { background-image: url(image-path('frogman_happy.png')); }
+.frogman_sad.png { background-image: url(image-path('frogman_sad.png')); }
+.frown.png { background-image: url(image-path('frown.png')); }
+.fsjal.png { background-image: url(image-path('fsjal.png')); }
+.fuck_that.png { background-image: url(image-path('fuck_that.png')); }
+.fuck_that_bitch_yao_pff.png { background-image: url(image-path('fuck_that_bitch_yao_pff.png')); }
+.fuck_that_shit_female.png { background-image: url(image-path('fuck_that_shit_female.png')); }
+.fuck_that_yao_ming.png { background-image: url(image-path('fuck_that_yao_ming.png')); }
+.fuck_yeah.png { background-image: url(image-path('fuck_yeah.png')); }
+.fuck_yeah_clean.png { background-image: url(image-path('fuck_yeah_clean.png')); }
+.fuck_yeah_close_enough.png { background-image: url(image-path('fuck_yeah_close_enough.png')); }
+.fuck_yeah_danny_trejo.png { background-image: url(image-path('fuck_yeah_danny_trejo.png')); }
+.fuck_yeah_melvin.png { background-image: url(image-path('fuck_yeah_melvin.png')); }
+.fuck_yeah_smile.png { background-image: url(image-path('fuck_yeah_smile.png')); }
+.fuck_you.gif { background-image: url(image-path('fuck_you.gif')); }
+.fuck_you.png { background-image: url(image-path('fuck_you.png')); }
+.fus_ro_dah.png { background-image: url(image-path('fus_ro_dah.png')); }
+.futurama_fry.png { background-image: url(image-path('futurama_fry.png')); }
+.futurama_zoidberg.png { background-image: url(image-path('futurama_zoidberg.png')); }
+.fuuu.png { background-image: url(image-path('fuuu.png')); }
+.fuuu_alternative.gif { background-image: url(image-path('fuuu_alternative.gif')); }
+.fuuu_karma.png { background-image: url(image-path('fuuu_karma.png')); }
+.gasp.png { background-image: url(image-path('gasp.png')); }
+.gasp_animation.gif { background-image: url(image-path('gasp_animation.gif')); }
+.gaspcat_with_glasses.png { background-image: url(image-path('gaspcat_with_glasses.png')); }
+.gay.png { background-image: url(image-path('gay.png')); }
+.genius.png { background-image: url(image-path('genius.png')); }
+.gentleman_troll.png { background-image: url(image-path('gentleman_troll.png')); }
+.gentlemen.png { background-image: url(image-path('gentlemen.png')); }
+.glory_pc.png { background-image: url(image-path('glory_pc.png')); }
+.go_fuck_yourself.png { background-image: url(image-path('go_fuck_yourself.png')); }
+.going_away_slow.gif { background-image: url(image-path('going_away_slow.gif')); }
+.good_guy_greg.png { background-image: url(image-path('good_guy_greg.png')); }
+.good_troll.png { background-image: url(image-path('good_troll.png')); }
+.got_a_badass.png { background-image: url(image-path('got_a_badass.png')); }
+.got_a_badass_full.png { background-image: url(image-path('got_a_badass_full.png')); }
+.grandma.png { background-image: url(image-path('grandma.png')); }
+.grandma_finds_the_internet.png { background-image: url(image-path('grandma_finds_the_internet.png')); }
+.grin.png { background-image: url(image-path('grin.png')); }
+.grinch.png { background-image: url(image-path('grinch.png')); }
+.gtfo.png { background-image: url(image-path('gtfo.png')); }
+.gtfo_clean.png { background-image: url(image-path('gtfo_clean.png')); }
+.gtfo_smile.png { background-image: url(image-path('gtfo_smile.png')); }
+.ha.png { background-image: url(image-path('ha.png')); }
+.hah_gay.png { background-image: url(image-path('hah_gay.png')); }
+.happy_female.png { background-image: url(image-path('happy_female.png')); }
+.happy_smile.png { background-image: url(image-path('happy_smile.png')); }
+.happy_smoking.png { background-image: url(image-path('happy_smoking.png')); }
+.happy_winter.png { background-image: url(image-path('happy_winter.png')); }
+.happy_yes.png { background-image: url(image-path('happy_yes.png')); }
+.hat_and_monocle.png { background-image: url(image-path('hat_and_monocle.png')); }
+.haters_gonna_hate.png { background-image: url(image-path('haters_gonna_hate.png')); }
+.haters_gonna_hate_animation.gif { background-image: url(image-path('haters_gonna_hate_animation.gif')); }
+.hawkward.png { background-image: url(image-path('hawkward.png')); }
+.he_he.png { background-image: url(image-path('he_he.png')); }
+.headphones.png { background-image: url(image-path('headphones.png')); }
+.heard_something.gif { background-image: url(image-path('heard_something.gif')); }
+.helpful_tyler_durden.png { background-image: url(image-path('helpful_tyler_durden.png')); }
+.herp.png { background-image: url(image-path('herp.png')); }
+.herp_derp.png { background-image: url(image-path('herp_derp.png')); }
+.hey.png { background-image: url(image-path('hey.png')); }
+.high.png { background-image: url(image-path('high.png')); }
+.high_expectations_asian_father.png { background-image: url(image-path('high_expectations_asian_father.png')); }
+.hipster_glasses.png { background-image: url(image-path('hipster_glasses.png')); }
+.hipster_kitty.png { background-image: url(image-path('hipster_kitty.png')); }
+.hipsterglasses.png { background-image: url(image-path('hipsterglasses.png')); }
+.hitler.png { background-image: url(image-path('hitler.png')); }
+.hmmm.png { background-image: url(image-path('hmmm.png')); }
+.horror.png { background-image: url(image-path('horror.png')); }
+.hot_chick.png { background-image: url(image-path('hot_chick.png')); }
+.huh.png { background-image: url(image-path('huh.png')); }
+.huhm.png { background-image: url(image-path('huhm.png')); }
+.hurrr.png { background-image: url(image-path('hurrr.png')); }
+.hyper_troll.png { background-image: url(image-path('hyper_troll.png')); }
+.i_am_determined.png { background-image: url(image-path('i_am_determined.png')); }
+.i_am_going_to_kill_you.gif { background-image: url(image-path('i_am_going_to_kill_you.gif')); }
+.i_feels_yah.png { background-image: url(image-path('i_feels_yah.png')); }
+.i_know_what_you_did_there_clean.png { background-image: url(image-path('i_know_what_you_did_there_clean.png')); }
+.i_lied.png { background-image: url(image-path('i_lied.png')); }
+.i_lied_black.png { background-image: url(image-path('i_lied_black.png')); }
+.i_lied_light.png { background-image: url(image-path('i_lied_light.png')); }
+.i_regret_nothing.png { background-image: url(image-path('i_regret_nothing.png')); }
+.i_see_what_you_did_there.png { background-image: url(image-path('i_see_what_you_did_there.png')); }
+.i_truthed.png { background-image: url(image-path('i_truthed.png')); }
+.ich_mag_gusta.png { background-image: url(image-path('ich_mag_gusta.png')); }
+.if_you_know_what_i_mean_mr_bean.png { background-image: url(image-path('if_you_know_what_i_mean_mr_bean.png')); }
+.if_you_know_what_i_mean_mr_bean_blank.png { background-image: url(image-path('if_you_know_what_i_mean_mr_bean_blank.png')); }
+.im_watching_u.png { background-image: url(image-path('im_watching_u.png')); }
+.impossibru.png { background-image: url(image-path('impossibru.png')); }
+.indeed.png { background-image: url(image-path('indeed.png')); }
+.inglip.png { background-image: url(image-path('inglip.png')); }
+.inglip_full_body.png { background-image: url(image-path('inglip_full_body.png')); }
+.inglip_full_body2.png { background-image: url(image-path('inglip_full_body2.png')); }
+.inglip_gropaga1.png { background-image: url(image-path('inglip_gropaga1.png')); }
+.inglip_gropaga2.png { background-image: url(image-path('inglip_gropaga2.png')); }
+.inglip_gropaga3.png { background-image: url(image-path('inglip_gropaga3.png')); }
+.inglip_gropaga4.png { background-image: url(image-path('inglip_gropaga4.png')); }
+.inglip_gropaga5.png { background-image: url(image-path('inglip_gropaga5.png')); }
+.inglip_gropaga6.png { background-image: url(image-path('inglip_gropaga6.png')); }
+.inglip_gropaga7.png { background-image: url(image-path('inglip_gropaga7.png')); }
+.inglip_gropaga_amazed.png { background-image: url(image-path('inglip_gropaga_amazed.png')); }
+.inglip_gropaga_blank.png { background-image: url(image-path('inglip_gropaga_blank.png')); }
+.inglip_gropaga_front.png { background-image: url(image-path('inglip_gropaga_front.png')); }
+.inglip_gropaga_okay.png { background-image: url(image-path('inglip_gropaga_okay.png')); }
+.inglip_gropaga_why.png { background-image: url(image-path('inglip_gropaga_why.png')); }
+.inglip_hail_inglip.png { background-image: url(image-path('inglip_hail_inglip.png')); }
+.inglip_hood1.png { background-image: url(image-path('inglip_hood1.png')); }
+.inglip_hood2.png { background-image: url(image-path('inglip_hood2.png')); }
+.inglip_ircip.png { background-image: url(image-path('inglip_ircip.png')); }
+.inglip_ready_to_battle.png { background-image: url(image-path('inglip_ready_to_battle.png')); }
+.insanity_wolf.png { background-image: url(image-path('insanity_wolf.png')); }
+.its_free.png { background-image: url(image-path('its_free.png')); }
+.its_not_okay.png { background-image: url(image-path('its_not_okay.png')); }
+.its_something.png { background-image: url(image-path('its_something.png')); }
+.jackie_chan.png { background-image: url(image-path('jackie_chan.png')); }
+.jealous_girl.png { background-image: url(image-path('jealous_girl.png')); }
+.jesus.png { background-image: url(image-path('jesus.png')); }
+.jesus_dog.png { background-image: url(image-path('jesus_dog.png')); }
+.john_cena.png { background-image: url(image-path('john_cena.png')); }
+.joseph_ducreux.png { background-image: url(image-path('joseph_ducreux.png')); }
+.keyboard_break.png { background-image: url(image-path('keyboard_break.png')); }
+.kill.gif { background-image: url(image-path('kill.gif')); }
+.killed_a_man.png { background-image: url(image-path('killed_a_man.png')); }
+.kitteh_smile.png { background-image: url(image-path('kitteh_smile.png')); }
+.knife_self.png { background-image: url(image-path('knife_self.png')); }
+.knowthatfeel.png { background-image: url(image-path('knowthatfeel.png')); }
+.koala_cant_believe.png { background-image: url(image-path('koala_cant_believe.png')); }
+.la_di_da.png { background-image: url(image-path('la_di_da.png')); }
+.lame_pun_coon.png { background-image: url(image-path('lame_pun_coon.png')); }
+.later_1.png { background-image: url(image-path('later_1.png')); }
+.later_2.png { background-image: url(image-path('later_2.png')); }
+.later_that_evening.png { background-image: url(image-path('later_that_evening.png')); }
+.laughing_hard.gif { background-image: url(image-path('laughing_hard.gif')); }
+.lazy_college_senior.png { background-image: url(image-path('lazy_college_senior.png')); }
+.le_fu.png { background-image: url(image-path('le_fu.png')); }
+.leaning_back.gif { background-image: url(image-path('leaning_back.gif')); }
+.lesquee.png { background-image: url(image-path('lesquee.png')); }
+.like_a_liege.png { background-image: url(image-path('like_a_liege.png')); }
+.like_a_ninja.png { background-image: url(image-path('like_a_ninja.png')); }
+.like_a_sir.png { background-image: url(image-path('like_a_sir.png')); }
+.little_kid.png { background-image: url(image-path('little_kid.png')); }
+.little_man_rising_up.gif { background-image: url(image-path('little_man_rising_up.gif')); }
+.lol.png { background-image: url(image-path('lol.png')); }
+.lol_crazy.png { background-image: url(image-path('lol_crazy.png')); }
+.lolol.gif { background-image: url(image-path('lolol.gif')); }
+.long_long_neck_surprise.png { background-image: url(image-path('long_long_neck_surprise.png')); }
+.long_neck_surprise.gif { background-image: url(image-path('long_neck_surprise.gif')); }
+.look_from_bottom.png { background-image: url(image-path('look_from_bottom.png')); }
+.lovely_face.png { background-image: url(image-path('lovely_face.png')); }
+.man_crying.png { background-image: url(image-path('man_crying.png')); }
+.maximum_trolling.gif { background-image: url(image-path('maximum_trolling.gif')); }
+.me_culpa.png { background-image: url(image-path('me_culpa.png')); }
+.me_gangsta.png { background-image: url(image-path('me_gangsta.png')); }
+.me_gusta.png { background-image: url(image-path('me_gusta.png')); }
+.me_gusta_creepy.png { background-image: url(image-path('me_gusta_creepy.png')); }
+.me_gusta_problemo.png { background-image: url(image-path('me_gusta_problemo.png')); }
+.me_gusta_vs_okay.gif { background-image: url(image-path('me_gusta_vs_okay.gif')); }
+.mega_rage_close.png { background-image: url(image-path('mega_rage_close.png')); }
+.meh_cat.png { background-image: url(image-path('meh_cat.png')); }
+.melvin.png { background-image: url(image-path('melvin.png')); }
+.mickey_troll.gif { background-image: url(image-path('mickey_troll.gif')); }
+.midnight.png { background-image: url(image-path('midnight.png')); }
+.milk.png { background-image: url(image-path('milk.png')); }
+.monocle.png { background-image: url(image-path('monocle.png')); }
+.mother_of_god.gif { background-image: url(image-path('mother_of_god.gif')); }
+.mother_of_god.png { background-image: url(image-path('mother_of_god.png')); }
+.mother_of_god_annoyed.png { background-image: url(image-path('mother_of_god_annoyed.png')); }
+.mother_of_gusta.png { background-image: url(image-path('mother_of_gusta.png')); }
+.mouth_wide_open.png { background-image: url(image-path('mouth_wide_open.png')); }
+.much_later.png { background-image: url(image-path('much_later.png')); }
+.much_much_later.png { background-image: url(image-path('much_much_later.png')); }
+.much_much_later_2.png { background-image: url(image-path('much_much_later_2.png')); }
+.much_much_much_later.png { background-image: url(image-path('much_much_much_later.png')); }
+.music_shit.png { background-image: url(image-path('music_shit.png')); }
+.musically_oblivious_8th_grader.png { background-image: url(image-path('musically_oblivious_8th_grader.png')); }
+.must_resist.png { background-image: url(image-path('must_resist.png')); }
+.nerd.png { background-image: url(image-path('nerd.png')); }
+.nerd_rainbow_puke.png { background-image: url(image-path('nerd_rainbow_puke.png')); }
+.net_noob.png { background-image: url(image-path('net_noob.png')); }
+.never_alone.png { background-image: url(image-path('never_alone.png')); }
+.newspaper_guy.png { background-image: url(image-path('newspaper_guy.png')); }
+.newspaper_guy_tear.png { background-image: url(image-path('newspaper_guy_tear.png')); }
+.next_day.png { background-image: url(image-path('next_day.png')); }
+.next_day_2.png { background-image: url(image-path('next_day_2.png')); }
+.no.png { background-image: url(image-path('no.png')); }
+.no_me_gusta.png { background-image: url(image-path('no_me_gusta.png')); }
+.nokia.png { background-image: url(image-path('nokia.png')); }
+.NOPE.png { background-image: url(image-path('NOPE.png')); }
+.not_giving_a_fuck.png { background-image: url(image-path('not_giving_a_fuck.png')); }
+.not_okay_smile.png { background-image: url(image-path('not_okay_smile.png')); }
+.not_sure_if_gusta.png { background-image: url(image-path('not_sure_if_gusta.png')); }
+.nothing_to_do_here.png { background-image: url(image-path('nothing_to_do_here.png')); }
+.nothing_to_do_here_animation.gif { background-image: url(image-path('nothing_to_do_here_animation.gif')); }
+.now_kiss.png { background-image: url(image-path('now_kiss.png')); }
+.nuclear_rage.png { background-image: url(image-path('nuclear_rage.png')); }
+.numb.png { background-image: url(image-path('numb.png')); }
+.nyancat.gif { background-image: url(image-path('nyancat.gif')); }
+.obama_michelle_not_bad.png { background-image: url(image-path('obama_michelle_not_bad.png')); }
+.obama_not_bad.png { background-image: url(image-path('obama_not_bad.png')); }
+.objection.png { background-image: url(image-path('objection.png')); }
+.oh.png { background-image: url(image-path('oh.png')); }
+.oh_god.png { background-image: url(image-path('oh_god.png')); }
+.oh_god_why.png { background-image: url(image-path('oh_god_why.png')); }
+.oh_my_goodness.png { background-image: url(image-path('oh_my_goodness.png')); }
+.oh_no.png { background-image: url(image-path('oh_no.png')); }
+.oh_shit.png { background-image: url(image-path('oh_shit.png')); }
+.oh_you.png { background-image: url(image-path('oh_you.png')); }
+.oh_you_so_cute.png { background-image: url(image-path('oh_you_so_cute.png')); }
+.ohhh_yes.png { background-image: url(image-path('ohhh_yes.png')); }
+.ohhh_yes_front.png { background-image: url(image-path('ohhh_yes_front.png')); }
+.ohhhla.png { background-image: url(image-path('ohhhla.png')); }
+.okay.gif { background-image: url(image-path('okay.gif')); }
+.okay_clean.png { background-image: url(image-path('okay_clean.png')); }
+.okay_gusta.png { background-image: url(image-path('okay_gusta.png')); }
+.okay_guy.png { background-image: url(image-path('okay_guy.png')); }
+.okay_guy_backgrounded.png { background-image: url(image-path('okay_guy_backgrounded.png')); }
+.okay_guy_no.png { background-image: url(image-path('okay_guy_no.png')); }
+.okay_pfftch.png { background-image: url(image-path('okay_pfftch.png')); }
+.omega_rage.png { background-image: url(image-path('omega_rage.png')); }
+.omega_troll.png { background-image: url(image-path('omega_troll.png')); }
+.omg_run.png { background-image: url(image-path('omg_run.png')); }
+.one_does_not_simply.png { background-image: url(image-path('one_does_not_simply.png')); }
+.one_eternity_later.png { background-image: url(image-path('one_eternity_later.png')); }
+.one_hour_later.png { background-image: url(image-path('one_hour_later.png')); }
+.one_week_later.png { background-image: url(image-path('one_week_later.png')); }
+.OperaHat.png { background-image: url(image-path('OperaHat.png')); }
+.ordinary_muslim_man.png { background-image: url(image-path('ordinary_muslim_man.png')); }
+.original_rage.png { background-image: url(image-path('original_rage.png')); }
+.paranoid_parrot.png { background-image: url(image-path('paranoid_parrot.png')); }
+.pedobear.png { background-image: url(image-path('pedobear.png')); }
+.pedobear_animation.gif { background-image: url(image-path('pedobear_animation.gif')); }
+.pedobear_backgrounded.png { background-image: url(image-path('pedobear_backgrounded.png')); }
+.pedobear_coming.png { background-image: url(image-path('pedobear_coming.png')); }
+.pfffftch_2.png { background-image: url(image-path('pfffftch_2.png')); }
+.pfffftch_3.png { background-image: url(image-path('pfffftch_3.png')); }
+.pfffrrr.png { background-image: url(image-path('pfffrrr.png')); }
+.pfftch.png { background-image: url(image-path('pfftch.png')); }
+.pfftttch.png { background-image: url(image-path('pfftttch.png')); }
+.philosoraptor.png { background-image: url(image-path('philosoraptor.png')); }
+.photogenic_guy.png { background-image: url(image-path('photogenic_guy.png')); }
+.pick_up_boy.png { background-image: url(image-path('pick_up_boy.png')); }
+.pick_up_boy_2.png { background-image: url(image-path('pick_up_boy_2.png')); }
+.pick_up_boy_strikes.png { background-image: url(image-path('pick_up_boy_strikes.png')); }
+.pick_up_boy_with_girl.png { background-image: url(image-path('pick_up_boy_with_girl.png')); }
+.pickup_line_panda.png { background-image: url(image-path('pickup_line_panda.png')); }
+.pig_rage.png { background-image: url(image-path('pig_rage.png')); }
+.pirate.png { background-image: url(image-path('pirate.png')); }
+.pleaseguy.png { background-image: url(image-path('pleaseguy.png')); }
+.poker_face_3.png { background-image: url(image-path('poker_face_3.png')); }
+.pokerface.png { background-image: url(image-path('pokerface.png')); }
+.pokerface_2.png { background-image: url(image-path('pokerface_2.png')); }
+.pokerface_2_clean.png { background-image: url(image-path('pokerface_2_clean.png')); }
+.pokerface_clean.png { background-image: url(image-path('pokerface_clean.png')); }
+.portal_rainbows.png { background-image: url(image-path('portal_rainbows.png')); }
+.possibru.png { background-image: url(image-path('possibru.png')); }
+.pretty_badass.png { background-image: url(image-path('pretty_badass.png')); }
+.problem_guy.png { background-image: url(image-path('problem_guy.png')); }
+.problemo.png { background-image: url(image-path('problemo.png')); }
+.provincial_man.png { background-image: url(image-path('provincial_man.png')); }
+.psssyeah.png { background-image: url(image-path('psssyeah.png')); }
+.questioning.png { background-image: url(image-path('questioning.png')); }
+.quiet_rage.png { background-image: url(image-path('quiet_rage.png')); }
+.rage.gif { background-image: url(image-path('rage.gif')); }
+.rage_cat.png { background-image: url(image-path('rage_cat.png')); }
+.rage_eyes.png { background-image: url(image-path('rage_eyes.png')); }
+.rage_fu.png { background-image: url(image-path('rage_fu.png')); }
+.rainbow_out_the_eyes.png { background-image: url(image-path('rainbow_out_the_eyes.png')); }
+.rainbow_puke.png { background-image: url(image-path('rainbow_puke.png')); }
+.rainbow_puke_animation.gif { background-image: url(image-path('rainbow_puke_animation.gif')); }
+.rapper.gif { background-image: url(image-path('rapper.gif')); }
+.reaction_guy.png { background-image: url(image-path('reaction_guy.png')); }
+.real_life.png { background-image: url(image-path('real_life.png')); }
+.real_life_animation.gif { background-image: url(image-path('real_life_animation.gif')); }
+.realism_troll.png { background-image: url(image-path('realism_troll.png')); }
+.red_big_smile.png { background-image: url(image-path('red_big_smile.png')); }
+.red_concentrated.png { background-image: url(image-path('red_concentrated.png')); }
+.red_crying.png { background-image: url(image-path('red_crying.png')); }
+.red_dazed.png { background-image: url(image-path('red_dazed.png')); }
+.red_determined.png { background-image: url(image-path('red_determined.png')); }
+.red_dude.png { background-image: url(image-path('red_dude.png')); }
+.red_dumbfounded.png { background-image: url(image-path('red_dumbfounded.png')); }
+.red_ewbte.png { background-image: url(image-path('red_ewbte.png')); }
+.red_excited.png { background-image: url(image-path('red_excited.png')); }
+.red_excited_bliss.png { background-image: url(image-path('red_excited_bliss.png')); }
+.red_excited_tears.png { background-image: url(image-path('red_excited_tears.png')); }
+.red_facepalm.png { background-image: url(image-path('red_facepalm.png')); }
+.red_fake_smile.png { background-image: url(image-path('red_fake_smile.png')); }
+.red_forever_alone.png { background-image: url(image-path('red_forever_alone.png')); }
+.red_freddie.png { background-image: url(image-path('red_freddie.png')); }
+.red_fuck_that_bitch.png { background-image: url(image-path('red_fuck_that_bitch.png')); }
+.red_fuck_yeah.png { background-image: url(image-path('red_fuck_yeah.png')); }
+.red_gasp.png { background-image: url(image-path('red_gasp.png')); }
+.red_gasp2.png { background-image: url(image-path('red_gasp2.png')); }
+.red_happy.png { background-image: url(image-path('red_happy.png')); }
+.red_hmmm.png { background-image: url(image-path('red_hmmm.png')); }
+.red_i_wonder.png { background-image: url(image-path('red_i_wonder.png')); }
+.red_ladystare.png { background-image: url(image-path('red_ladystare.png')); }
+.red_ladystare2.png { background-image: url(image-path('red_ladystare2.png')); }
+.red_lean.png { background-image: url(image-path('red_lean.png')); }
+.red_lol.png { background-image: url(image-path('red_lol.png')); }
+.red_me_gusta.png { background-image: url(image-path('red_me_gusta.png')); }
+.red_milk.png { background-image: url(image-path('red_milk.png')); }
+.red_normal.png { background-image: url(image-path('red_normal.png')); }
+.red_normal2.png { background-image: url(image-path('red_normal2.png')); }
+.red_okay.png { background-image: url(image-path('red_okay.png')); }
+.red_omgrun.png { background-image: url(image-path('red_omgrun.png')); }
+.red_pfft.png { background-image: url(image-path('red_pfft.png')); }
+.red_quite.png { background-image: url(image-path('red_quite.png')); }
+.red_rage.png { background-image: url(image-path('red_rage.png')); }
+.red_rage2.png { background-image: url(image-path('red_rage2.png')); }
+.red_rage_canadian.png { background-image: url(image-path('red_rage_canadian.png')); }
+.red_rage_extreme.png { background-image: url(image-path('red_rage_extreme.png')); }
+.red_rage_extreme2.png { background-image: url(image-path('red_rage_extreme2.png')); }
+.red_rage_foaming.png { background-image: url(image-path('red_rage_foaming.png')); }
+.red_rage_getting_pissed.png { background-image: url(image-path('red_rage_getting_pissed.png')); }
+.red_rage_mad.png { background-image: url(image-path('red_rage_mad.png')); }
+.red_rage_mad2.png { background-image: url(image-path('red_rage_mad2.png')); }
+.red_rage_quiet.png { background-image: url(image-path('red_rage_quiet.png')); }
+.red_rage_shaking.png { background-image: url(image-path('red_rage_shaking.png')); }
+.red_rage_super.png { background-image: url(image-path('red_rage_super.png')); }
+.red_really_determined.png { background-image: url(image-path('red_really_determined.png')); }
+.red_red_tongue.png { background-image: url(image-path('red_red_tongue.png')); }
+.red_schlick.png { background-image: url(image-path('red_schlick.png')); }
+.red_smile.png { background-image: url(image-path('red_smile.png')); }
+.red_sweet_tears.png { background-image: url(image-path('red_sweet_tears.png')); }
+.red_tongue.png { background-image: url(image-path('red_tongue.png')); }
+.red_tongue_down.png { background-image: url(image-path('red_tongue_down.png')); }
+.red_troll.png { background-image: url(image-path('red_troll.png')); }
+.red_troll_sad.png { background-image: url(image-path('red_troll_sad.png')); }
+.red_what.png { background-image: url(image-path('red_what.png')); }
+.red_why.png { background-image: url(image-path('red_why.png')); }
+.red_why_no_hands.png { background-image: url(image-path('red_why_no_hands.png')); }
+.red_wut.png { background-image: url(image-path('red_wut.png')); }
+.RedditAlien.png { background-image: url(image-path('RedditAlien.png')); }
+.RedditAlien2.png { background-image: url(image-path('RedditAlien2.png')); }
+.RedditAlien3.png { background-image: url(image-path('RedditAlien3.png')); }
+.redditors_wife.png { background-image: url(image-path('redditors_wife.png')); }
+.redhair.png { background-image: url(image-path('redhair.png')); }
+.redneck_randal.png { background-image: url(image-path('redneck_randal.png')); }
+.ridiciously_photogenic_metalhead.png { background-image: url(image-path('ridiciously_photogenic_metalhead.png')); }
+.rly_clean_everything.png { background-image: url(image-path('rly_clean_everything.png')); }
+.royal_wedding_girl.png { background-image: url(image-path('royal_wedding_girl.png')); }
+.run.gif { background-image: url(image-path('run.gif')); }
+.sad.png { background-image: url(image-path('sad.png')); }
+.sad_computer.png { background-image: url(image-path('sad_computer.png')); }
+.sad_melvin.png { background-image: url(image-path('sad_melvin.png')); }
+.sad_shadow.png { background-image: url(image-path('sad_shadow.png')); }
+.sad_sitting.png { background-image: url(image-path('sad_sitting.png')); }
+.sad_troll_face.png { background-image: url(image-path('sad_troll_face.png')); }
+.sad_why.png { background-image: url(image-path('sad_why.png')); }
+.sarcasm.png { background-image: url(image-path('sarcasm.png')); }
+.scared_yao.png { background-image: url(image-path('scared_yao.png')); }
+.scroll_scroll.png { background-image: url(image-path('scroll_scroll.png')); }
+.scumbag_brain.png { background-image: url(image-path('scumbag_brain.png')); }
+.scumbag_cap.png { background-image: url(image-path('scumbag_cap.png')); }
+.scumbag_girl.png { background-image: url(image-path('scumbag_girl.png')); }
+.scumbag_steve.png { background-image: url(image-path('scumbag_steve.png')); }
+.serious_not_okay.png { background-image: url(image-path('serious_not_okay.png')); }
+.seriously.png { background-image: url(image-path('seriously.png')); }
+.several_days_later.png { background-image: url(image-path('several_days_later.png')); }
+.sexual_frustration.png { background-image: url(image-path('sexual_frustration.png')); }
+.sexually_oblivious_rhino.png { background-image: url(image-path('sexually_oblivious_rhino.png')); }
+.sheltering_suburban_mom.png { background-image: url(image-path('sheltering_suburban_mom.png')); }
+.shocked.png { background-image: url(image-path('shocked.png')); }
+.shoosh.gif { background-image: url(image-path('shoosh.gif')); }
+.shrug.png { background-image: url(image-path('shrug.png')); }
+.side_mouth.png { background-image: url(image-path('side_mouth.png')); }
+.sincere_troll.png { background-image: url(image-path('sincere_troll.png')); }
+.six_hours_later.png { background-image: url(image-path('six_hours_later.png')); }
+.six_hours_later_2.png { background-image: url(image-path('six_hours_later_2.png')); }
+.slap.gif { background-image: url(image-path('slap.gif')); }
+.slowpoke.png { background-image: url(image-path('slowpoke.png')); }
+.smashing.png { background-image: url(image-path('smashing.png')); }
+.so_close_freddie_mercury.png { background-image: url(image-path('so_close_freddie_mercury.png')); }
+.so_hardcore.png { background-image: url(image-path('so_hardcore.png')); }
+.so_much_win.png { background-image: url(image-path('so_much_win.png')); }
+.so_there.png { background-image: url(image-path('so_there.png')); }
+.so_there_close.png { background-image: url(image-path('so_there_close.png')); }
+.socially_awesome_penguin.png { background-image: url(image-path('socially_awesome_penguin.png')); }
+.socially_awkward_penguin.png { background-image: url(image-path('socially_awkward_penguin.png')); }
+.something_to_do_here.png { background-image: url(image-path('something_to_do_here.png')); }
+.son_i_am_disappoint.png { background-image: url(image-path('son_i_am_disappoint.png')); }
+.speech.png { background-image: url(image-path('speech.png')); }
+.speech2.png { background-image: url(image-path('speech2.png')); }
+.speech3.png { background-image: url(image-path('speech3.png')); }
+.speech4.png { background-image: url(image-path('speech4.png')); }
+.speech5.png { background-image: url(image-path('speech5.png')); }
+.speech6.png { background-image: url(image-path('speech6.png')); }
+.spiderpman.png { background-image: url(image-path('spiderpman.png')); }
+.staring_at_pc.gif { background-image: url(image-path('staring_at_pc.gif')); }
+.steamboat_troll.png { background-image: url(image-path('steamboat_troll.png')); }
+.stoned_what.png { background-image: url(image-path('stoned_what.png')); }
+.stoner_dog.png { background-image: url(image-path('stoner_dog.png')); }
+.stop_it.png { background-image: url(image-path('stop_it.png')); }
+.stop_it_angry.png { background-image: url(image-path('stop_it_angry.png')); }
+.success.png { background-image: url(image-path('success.png')); }
+.success_kid.png { background-image: url(image-path('success_kid.png')); }
+.successful_black_man.png { background-image: url(image-path('successful_black_man.png')); }
+.sunny_student.png { background-image: url(image-path('sunny_student.png')); }
+.super_rage.png { background-image: url(image-path('super_rage.png')); }
+.surprised_Commissar.png { background-image: url(image-path('surprised_Commissar.png')); }
+.surprised_gasp.png { background-image: url(image-path('surprised_gasp.png')); }
+.surprised_great_scott.png { background-image: url(image-path('surprised_great_scott.png')); }
+.surprised_kid.png { background-image: url(image-path('surprised_kid.png')); }
+.surprised_long_neck_surprise.png { background-image: url(image-path('surprised_long_neck_surprise.png')); }
+.surprised_mother_of_god.png { background-image: url(image-path('surprised_mother_of_god.png')); }
+.surprised_oh_fuck_no.png { background-image: url(image-path('surprised_oh_fuck_no.png')); }
+.surprised_open_mouth.png { background-image: url(image-path('surprised_open_mouth.png')); }
+.surprised_rage_clean.png { background-image: url(image-path('surprised_rage_clean.png')); }
+.surprised_wait.png { background-image: url(image-path('surprised_wait.png')); }
+.surprised_wide_open.png { background-image: url(image-path('surprised_wide_open.png')); }
+.suspicious.png { background-image: url(image-path('suspicious.png')); }
+.sweaty_concentrated.png { background-image: url(image-path('sweaty_concentrated.png')); }
+.sweet_jesus_eyes_hanging_out.png { background-image: url(image-path('sweet_jesus_eyes_hanging_out.png')); }
+.sweet_jesus_face.png { background-image: url(image-path('sweet_jesus_face.png')); }
+.tears_in_the_eyes.png { background-image: url(image-path('tears_in_the_eyes.png')); }
+.tech_impaired_duck.png { background-image: url(image-path('tech_impaired_duck.png')); }
+.thanks.png { background-image: url(image-path('thanks.png')); }
+.that_is_suspicious.png { background-image: url(image-path('that_is_suspicious.png')); }
+.the_mask.gif { background-image: url(image-path('the_mask.gif')); }
+.the_most_interesting_cat_in_the_world.png { background-image: url(image-path('the_most_interesting_cat_in_the_world.png')); }
+.the_most_interesting_man_in_the_world.png { background-image: url(image-path('the_most_interesting_man_in_the_world.png')); }
+.things_went_okay.png { background-image: url(image-path('things_went_okay.png')); }
+.third_world_success.png { background-image: url(image-path('third_world_success.png')); }
+.this_is_awkward.png { background-image: url(image-path('this_is_awkward.png')); }
+.thousands_of_tears_later.png { background-image: url(image-path('thousands_of_tears_later.png')); }
+.three_hours_later.png { background-image: url(image-path('three_hours_later.png')); }
+.three_hours_later_2.png { background-image: url(image-path('three_hours_later_2.png')); }
+.three_weeks_later.png { background-image: url(image-path('three_weeks_later.png')); }
+.three_weeks_later_2.png { background-image: url(image-path('three_weeks_later_2.png')); }
+.thumbs_up.png { background-image: url(image-path('thumbs_up.png')); }
+.today_is_monday.png { background-image: url(image-path('today_is_monday.png')); }
+.toker_face.png { background-image: url(image-path('toker_face.png')); }
+.tomorrow.png { background-image: url(image-path('tomorrow.png')); }
+.tomorrow_for_sure.png { background-image: url(image-path('tomorrow_for_sure.png')); }
+.trees.png { background-image: url(image-path('trees.png')); }
+.trees_angry.png { background-image: url(image-path('trees_angry.png')); }
+.trees_big_mouth.png { background-image: url(image-path('trees_big_mouth.png')); }
+.trees_confused.png { background-image: url(image-path('trees_confused.png')); }
+.trees_happy.png { background-image: url(image-path('trees_happy.png')); }
+.trees_small_mouth.png { background-image: url(image-path('trees_small_mouth.png')); }
+.trees_smile.png { background-image: url(image-path('trees_smile.png')); }
+.trees_stoned.png { background-image: url(image-path('trees_stoned.png')); }
+.trees_stoned_exhale.png { background-image: url(image-path('trees_stoned_exhale.png')); }
+.trees_stoned_inhale.png { background-image: url(image-path('trees_stoned_inhale.png')); }
+.trex_rage.png { background-image: url(image-path('trex_rage.png')); }
+.troll_2.png { background-image: url(image-path('troll_2.png')); }
+.troll_arms.gif { background-image: url(image-path('troll_arms.gif')); }
+.troll_badumts.png { background-image: url(image-path('troll_badumts.png')); }
+.troll_ballon.png { background-image: url(image-path('troll_ballon.png')); }
+.troll_black.png { background-image: url(image-path('troll_black.png')); }
+.troll_black_beaten.png { background-image: url(image-path('troll_black_beaten.png')); }
+.troll_crazy.png { background-image: url(image-path('troll_crazy.png')); }
+.troll_dad.png { background-image: url(image-path('troll_dad.png')); }
+.troll_dad_dance.png { background-image: url(image-path('troll_dad_dance.png')); }
+.troll_dad_dancing.gif { background-image: url(image-path('troll_dad_dancing.gif')); }
+.troll_dad_full.png { background-image: url(image-path('troll_dad_full.png')); }
+.troll_dad_monocle.png { background-image: url(image-path('troll_dad_monocle.png')); }
+.troll_dancing.gif { background-image: url(image-path('troll_dancing.gif')); }
+.troll_face.png { background-image: url(image-path('troll_face.png')); }
+.troll_face_backgrounded.png { background-image: url(image-path('troll_face_backgrounded.png')); }
+.troll_feet.gif { background-image: url(image-path('troll_feet.gif')); }
+.troll_full.png { background-image: url(image-path('troll_full.png')); }
+.troll_granny.png { background-image: url(image-path('troll_granny.png')); }
+.troll_grin_dancing.gif { background-image: url(image-path('troll_grin_dancing.gif')); }
+.troll_gusta.png { background-image: url(image-path('troll_gusta.png')); }
+.troll_mickey.png { background-image: url(image-path('troll_mickey.png')); }
+.troll_problem.png { background-image: url(image-path('troll_problem.png')); }
+.troll_typing.png { background-image: url(image-path('troll_typing.png')); }
+.troll_typing_animation.gif { background-image: url(image-path('troll_typing_animation.gif')); }
+.trolled_me_gusta.gif { background-image: url(image-path('trolled_me_gusta.gif')); }
+.trollol.png { background-image: url(image-path('trollol.png')); }
+.trologirl.png { background-image: url(image-path('trologirl.png')); }
+.true_fucking_story.png { background-image: url(image-path('true_fucking_story.png')); }
+.true_story.png { background-image: url(image-path('true_story.png')); }
+.trumpet.png { background-image: url(image-path('trumpet.png')); }
+.twenty_minutes_later.png { background-image: url(image-path('twenty_minutes_later.png')); }
+.two_boring_minutes.png { background-image: url(image-path('two_boring_minutes.png')); }
+.two_hours_later.png { background-image: url(image-path('two_hours_later.png')); }
+.two_hours_later_2.png { background-image: url(image-path('two_hours_later_2.png')); }
+.two_hours_later_3.png { background-image: url(image-path('two_hours_later_3.png')); }
+.two_hours_later_4.png { background-image: url(image-path('two_hours_later_4.png')); }
+.two_hours_later_5.png { background-image: url(image-path('two_hours_later_5.png')); }
+.u_jelly.png { background-image: url(image-path('u_jelly.png')); }
+.u_mad_troll.gif { background-image: url(image-path('u_mad_troll.gif')); }
+.ultra_gay.png { background-image: url(image-path('ultra_gay.png')); }
+.unhappy.png { background-image: url(image-path('unhappy.png')); }
+.wait.png { background-image: url(image-path('wait.png')); }
+.wait_no.png { background-image: url(image-path('wait_no.png')); }
+.wat.png { background-image: url(image-path('wat.png')); }
+.wha.png { background-image: url(image-path('wha.png')); }
+.what.png { background-image: url(image-path('what.png')); }
+.what_have_you_done.png { background-image: url(image-path('what_have_you_done.png')); }
+.what_the_hell.gif { background-image: url(image-path('what_the_hell.gif')); }
+.what_this_badass_shit_means.png { background-image: url(image-path('what_this_badass_shit_means.png')); }
+.why_boy.png { background-image: url(image-path('why_boy.png')); }
+.whyyy.png { background-image: url(image-path('whyyy.png')); }
+.whyyy_backgrounded.png { background-image: url(image-path('whyyy_backgrounded.png')); }
+.will_smith.png { background-image: url(image-path('will_smith.png')); }
+.will_smith___tada.png { background-image: url(image-path('will_smith___tada.png')); }
+.wink.gif { background-image: url(image-path('wink.gif')); }
+.wonka.png { background-image: url(image-path('wonka.png')); }
+.wonka_yao.png { background-image: url(image-path('wonka_yao.png')); }
+.wow.png { background-image: url(image-path('wow.png')); }
+.wut.png { background-image: url(image-path('wut.png')); }
+.x_all_the_y.png { background-image: url(image-path('x_all_the_y.png')); }
+.y_u_no.png { background-image: url(image-path('y_u_no.png')); }
+.y_u_no_crying.png { background-image: url(image-path('y_u_no_crying.png')); }
+.yao_ming.gif { background-image: url(image-path('yao_ming.gif')); }
+.yao_ming_forever_alone.png { background-image: url(image-path('yao_ming_forever_alone.png')); }
+.yao_ming_pirate.png { background-image: url(image-path('yao_ming_pirate.png')); }
+.yay.png { background-image: url(image-path('yay.png')); }
+.yea_science.png { background-image: url(image-path('yea_science.png')); }
+.yes_i_do_say.png { background-image: url(image-path('yes_i_do_say.png')); }
+.yes_this_is_dog.png { background-image: url(image-path('yes_this_is_dog.png')); }
+.yesterday.png { background-image: url(image-path('yesterday.png')); }
+.yo_dawg.png { background-image: url(image-path('yo_dawg.png')); }
+.you_are_the_man.png { background-image: url(image-path('you_are_the_man.png')); }
+.you_dont_say.png { background-image: url(image-path('you_dont_say.png')); }
+.you_fucking_kidding_me_son.png { background-image: url(image-path('you_fucking_kidding_me_son.png')); }
+.you_got_it.png { background-image: url(image-path('you_got_it.png')); }
+.you_seem_upset.png { background-image: url(image-path('you_seem_upset.png')); }
+.you_win_this_time.png { background-image: url(image-path('you_win_this_time.png')); }
+.your_pain_amuses_me.png { background-image: url(image-path('your_pain_amuses_me.png')); }
+.youre_the_man.png { background-image: url(image-path('youre_the_man.png')); }
