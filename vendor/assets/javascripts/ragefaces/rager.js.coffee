@@ -569,7 +569,7 @@ class RageFaces
       'no',
       'no_me_gusta',
       'nokia',
-      'NOPE',
+      'nope',
       'not_giving_a_fuck',
       'not_okay_smile',
       'not_sure_if_gusta',
