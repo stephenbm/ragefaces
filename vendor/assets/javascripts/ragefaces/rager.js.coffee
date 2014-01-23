@@ -303,6 +303,7 @@ class RageFaces
       'cute_little_kid',
       'cuteness_overload',
       'cuteness_overload_2',
+      'dafuq',
       'daily_lie',
       'damn',
       'dat_ash',
